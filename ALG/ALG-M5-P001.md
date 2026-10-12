@@ -4,7 +4,7 @@
 | | |
 |-|-|
 |**Język:** | C++ |
-|**Czas:** | 90 min |
+|**Czas:** | 3 x 45 min (135 min) |
 |**Forma:** | zadanie praktyczne (programistyczne) przy komputerze |
 |**Dozwolone materiały:** | własne notatki, dokumentacja języka |
 
