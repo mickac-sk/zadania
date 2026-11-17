@@ -1,0 +1,200 @@
+Dysk HDD 4TB Standard;nosniki;538.63;9
+Przejsciowka USB-C na HDMI;akcesoria;42.09;83
+Plecak na laptopa V2;akcesoria;262.74;59
+Monitor 22 cale Office;monitory;567.28;252
+Kabel DisplayPort Pro;akcesoria;24.97;97
+Karta graficzna 8GB Gaming;komponenty;2780.68;167
+Tusz do drukarki Gaming;drukarki;104.44;51
+Switch 8-portowy V2;sieciowe;150.23;293
+Monitor 27 cali;monitory;1040.21;171
+Toner do drukarki Eco;drukarki;126.80;156
+Monitor gamingowy 165Hz V2;monitory;1635.49;233
+Pakiet biurowy licencja Max;oprogramowanie;390.66;140
+Listwa zasilajaca Plus;akcesoria;115.87;259
+Pendrive 256GB Eco;nosniki;111.93;112
+Monitor 22 cale;monitory;553.13;230
+Hub USB-C 7w1 Eco;akcesoria;159.89;39
+Mikrofon pojemnosciowy Gaming;peryferia;305.26;271
+Program graficzny licencja Slim;oprogramowanie;341.66;72
+Klawiatura mechaniczna Basic;peryferia;220.55;279
+Mysz optyczna Standard;peryferia;47.41;75
+Karta graficzna 8GB;komponenty;3127.75;10
+Zasilacz 650W Basic;komponenty;335.91;101
+Router Wi-Fi 6 Standard;sieciowe;412.24;149
+Plyta glowna ATX Gaming;komponenty;661.23;91
+Pendrive 64GB Office;nosniki;45.66;148
+Router Wi-Fi 6 Office;sieciowe;673.56;20
+Pamiec RAM 8GB DDR4 Gaming;komponenty;189.64;50
+Listwa zasilajaca Office;akcesoria;44.14;193
+Monitor przenosny Pro;monitory;542.20;7
+Program do backupu Premium;oprogramowanie;277.39;130
+Drukarka atramentowa Basic;drukarki;677.82;180
+Podkladka pod mysz Plus;peryferia;72.33;287
+Urzadzenie wielofunkcyjne Plus;drukarki;1251.34;5
+Torba na laptopa Office;akcesoria;104.03;115
+Router Wi-Fi dwuzakresowy Slim;sieciowe;348.07;238
+Przejsciowka USB-C na HDMI Plus;akcesoria;49.11;21
+Toner do drukarki Slim;drukarki;127.35;164
+Kabel USB-C Standard;akcesoria;38.04;196
+Torba na laptopa Compact;akcesoria;101.80;79
+Access Point;sieciowe;402.49;101
+Kamera internetowa Gaming;peryferia;112.99;131
+Pakiet biurowy licencja Basic;oprogramowanie;351.65;212
+Monitor 32 cale 4K Lite;monitory;1537.73;111
+Ramie do monitora Slim;monitory;124.96;244
+Klawiatura mechaniczna Premium;peryferia;233.78;217
+Mysz optyczna Plus;peryferia;48.89;212
+Sluchawki douszne Premium;peryferia;120.19;161
+Wentylator 120mm Plus;komponenty;58.71;266
+Urzadzenie wielofunkcyjne Max;drukarki;609.67;117
+Pamiec RAM 16GB DDR4 Pro;komponenty;321.41;154
+Sluchawki nauszne Plus;peryferia;109.76;297
+System operacyjny licencja Standard;oprogramowanie;632.97;87
+Kabel DisplayPort Lite;akcesoria;24.91;249
+Papier A4 ryza V2;drukarki;24.49;294
+Program do backupu Lite;oprogramowanie;289.87;155
+Karta microSD 256GB Max;nosniki;112.09;165
+Dysk HDD 2TB Standard;nosniki;274.46;192
+Opaski na kable Premium;akcesoria;27.52;277
+Kabel sieciowy UTP V2;sieciowe;33.58;167
+Access Point Office;sieciowe;392.20;40
+Pasta termoprzewodzaca Lite;komponenty;69.04;7
+Pendrive 128GB Max;nosniki;70.49;133
+Access Point Lite;sieciowe;303.23;130
+Pendrive 256GB Compact;nosniki;99.10;153
+Tablet graficzny Eco;peryferia;403.56;138
+Dysk HDD 2TB Eco;nosniki;303.92;226
+Pendrive 64GB Basic;nosniki;32.02;20
+Klawiatura membranowa Slim;peryferia;72.03;208
+Gamepad Plus;peryferia;96.43;217
+System operacyjny licencja Basic;oprogramowanie;440.61;172
+Monitor 22 cale Pro;monitory;594.97;252
+Router Wi-Fi dwuzakresowy;sieciowe;270.41;174
+Monitor 27 cali V2;monitory;1110.11;268
+Monitor 27 cali Gaming;monitory;1283.97;89
+Karta microSD 128GB Basic;nosniki;63.48;201
+Dysk HDD 4TB Slim;nosniki;386.33;294
+Opaski na kable Plus;akcesoria;21.05;226
+Dysk SSD 2TB Premium;nosniki;643.57;160
+Czyscik do ekranu V2;akcesoria;34.34;74
+Klawiatura mechaniczna Plus;peryferia;308.45;130
+Pendrive 32GB Max;nosniki;25.21;281
+Karta graficzna 12GB Pro;komponenty;3834.38;165
+System operacyjny licencja;oprogramowanie;795.23;234
+Papier A4 ryza Pro;drukarki;21.68;87
+Zasilacz 550W Compact;komponenty;269.90;230
+Chlodzenie procesora Standard;komponenty;320.14;99
+Procesor 4-rdzeniowy V2;komponenty;666.51;121
+Switch 5-portowy Premium;sieciowe;153.98;177
+Karta microSD 128GB Compact;nosniki;72.34;81
+Pamiec RAM 32GB DDR4 Basic;komponenty;607.42;198
+Sluchawki nauszne Eco;peryferia;156.96;173
+Monitor 32 cale 4K Premium;monitory;1759.25;50
+Kabel USB-C Pro;akcesoria;30.47;125
+Srodowisko programistyczne Standard;oprogramowanie;290.42;156
+Switch 16-portowy Basic;sieciowe;354.46;34
+Dysk SSD 500GB Max;nosniki;199.66;260
+Drukarka laserowa kolor Max;drukarki;1341.47;119
+Monitor 32 cale 4K Gaming;monitory;1814.91;270
+Karta graficzna 12GB Office;komponenty;3818.15;139
+Pamiec RAM 8GB DDR4 Compact;komponenty;162.74;242
+Pasta termoprzewodzaca Premium;komponenty;32.33;297
+Papier fotograficzny;drukarki;42.14;122
+Pamiec RAM 32GB DDR4 Standard;komponenty;538.36;214
+Procesor 4-rdzeniowy Max;komponenty;614.44;244
+Kabel sieciowy UTP Slim;sieciowe;58.28;138
+Mikrofon pojemnosciowy Standard;peryferia;377.51;13
+Karta graficzna 8GB Office;komponenty;3197.37;168
+Papier A4 ryza Lite;drukarki;30.35;88
+Patchpanel 24 porty Standard;sieciowe;194.84;234
+Program graficzny licencja Lite;oprogramowanie;842.90;159
+Toner do drukarki Pro;drukarki;281.66;191
+Karta graficzna 8GB Max;komponenty;1833.17;280
+Drukarka laserowa kolor Premium;drukarki;1125.92;15
+Karta microSD 256GB Office;nosniki;137.40;211
+Dysk HDD 2TB Basic;nosniki;243.71;112
+Wzmacniacz sygnalu Wi-Fi Premium;sieciowe;177.74;246
+Pendrive 128GB Lite;nosniki;63.75;218
+Procesor 8-rdzeniowy Plus;komponenty;1910.99;188
+Gamepad Premium;peryferia;199.06;209
+Sluchawki douszne Slim;peryferia;92.12;30
+Urzadzenie wielofunkcyjne Eco;drukarki;828.60;275
+Karta graficzna 12GB V2;komponenty;2988.06;15
+Mikrofon pojemnosciowy Office;peryferia;321.50;209
+Papier A4 ryza Slim;drukarki;26.85;159
+Pamiec RAM 32GB DDR4 Gaming;komponenty;603.51;137
+Czyscik do ekranu Standard;akcesoria;26.90;161
+Dysk SSD 2TB Pro;nosniki;564.35;169
+Plyta glowna mATX Compact;komponenty;463.07;300
+Mysz gamingowa;peryferia;254.03;272
+Kabel sieciowy UTP Plus;sieciowe;37.54;178
+Opaski na kable Slim;akcesoria;11.77;4
+Procesor 6-rdzeniowy Lite;komponenty;914.37;226
+Wzmacniacz sygnalu Wi-Fi Standard;sieciowe;118.12;72
+Hub USB 4 porty Plus;akcesoria;83.80;291
+Pamiec RAM 32GB DDR4 Office;komponenty;604.17;253
+Klawiatura bezprzewodowa Gaming;peryferia;151.48;110
+Procesor 4-rdzeniowy Basic;komponenty;528.69;111
+Monitor gamingowy 165Hz Lite;monitory;1729.04;286
+Pakiet biurowy licencja Gaming;oprogramowanie;509.65;18
+Switch 5-portowy Office;sieciowe;148.46;86
+Karta sieciowa USB Gaming;sieciowe;44.25;61
+Klawiatura mechaniczna Office;peryferia;272.59;59
+Switch 16-portowy Compact;sieciowe;459.42;71
+Toner do drukarki Compact;drukarki;222.60;134
+Ramie do monitora Office;monitory;137.74;10
+Podkladka pod mysz;peryferia;75.05;101
+Karta microSD 512GB Pro;nosniki;210.20;279
+Zasilacz 750W Gaming;komponenty;495.24;246
+Drukarka laserowa mono;drukarki;764.82;188
+Hub USB 4 porty;akcesoria;108.63;136
+Kabel HDMI Eco;akcesoria;50.19;250
+Zasilacz 750W Pro;komponenty;424.16;242
+Listwa zasilajaca V2;akcesoria;66.64;231
+Plyta glowna ATX Basic;komponenty;612.77;231
+Router Wi-Fi 6 Slim;sieciowe;375.41;88
+Gamepad Office;peryferia;102.06;162
+Ramie do monitora Premium;monitory;158.02;139
+Tusz do drukarki;drukarki;120.51;198
+Procesor 8-rdzeniowy;komponenty;1863.57;200
+Drukarka laserowa mono Premium;drukarki;719.35;65
+Wzmacniacz sygnalu Wi-Fi Lite;sieciowe;139.28;246
+Listwa zasilajaca;akcesoria;64.88;249
+Kabel USB-C Eco;akcesoria;41.18;119
+Klawiatura membranowa Premium;peryferia;43.11;103
+Wentylator 120mm Premium;komponenty;47.88;7
+Pendrive 128GB Pro;nosniki;87.33;148
+Dysk SSD 1TB Compact;nosniki;257.76;154
+Dysk SSD 2TB Office;nosniki;682.79;266
+Procesor 4-rdzeniowy Lite;komponenty;600.58;116
+Switch 8-portowy Lite;sieciowe;210.89;215
+Chlodzenie procesora Lite;komponenty;129.04;61
+Dysk zewnetrzny 1TB Gaming;nosniki;330.24;112
+Plecak na laptopa Max;akcesoria;255.30;239
+Dysk SSD 500GB Pro;nosniki;175.28;6
+Mysz gamingowa Office;peryferia;136.39;112
+Pamiec RAM 16GB DDR4 V2;komponenty;321.27;22
+Wzmacniacz sygnalu Wi-Fi Pro;sieciowe;195.25;118
+Mysz bezprzewodowa Basic;peryferia;105.74;184
+Karta graficzna 12GB Premium;komponenty;3771.50;231
+Router Wi-Fi dwuzakresowy Gaming;sieciowe;294.33;241
+Monitor 24 cale Compact;monitory;665.59;250
+Mysz bezprzewodowa Premium;peryferia;64.02;247
+Program graficzny licencja Eco;oprogramowanie;453.52;77
+Kabel USB-C Compact;akcesoria;20.96;226
+Hub USB 4 porty Standard;akcesoria;84.85;196
+Program antywirusowy V2;oprogramowanie;119.01;297
+Tablet graficzny Max;peryferia;591.31;118
+Router Wi-Fi 6;sieciowe;463.65;299
+Monitor przenosny Compact;monitory;637.69;246
+Oslona na monitor V2;monitory;105.54;116
+Papier fotograficzny Lite;drukarki;52.22;149
+Dysk SSD 1TB Premium;nosniki;291.60;90
+Dysk zewnetrzny 2TB Premium;nosniki;446.00;197
+Podkladka pod mysz Standard;peryferia;57.32;69
+Karta microSD 256GB V2;nosniki;83.95;123
+Pendrive 32GB Gaming;nosniki;23.94;185
+Pasta termoprzewodzaca Office;komponenty;34.44;92
+Sluchawki nauszne Premium;peryferia;211.45;142
+Procesor 6-rdzeniowy Compact;komponenty;1182.23;130
+Plyta glowna mATX Lite;komponenty;459.77;55
