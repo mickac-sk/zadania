@@ -1,0 +1,5000 @@
+Platki owsiane;1.23;14;promocja
+Kasza
+Kasza gryczana;31.62;50
+Bob;36.40;43
+Mleko;7.23;199
+Bulki grahamki;81.78;186
+Sol;5.67;186
+Kasza;71.61;154
+Szynka drobiowa;65.14;155
+Szynka drobiowa;53.90;146
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;68.26;174
+Sol;32.92;51
+Ryz;86.75;163
+Mleko;30.79;111
+Bulki grahamki;19.46
+Bulki grahamki;0.52;131
+Ser zolty gouda;19.23;48
+
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;59.25;71
+Platki sniadaniowe wieloziarniste z orzechami i miodem;28.88;193
+Herbata;25.86;92
+Serek wiejski;17.10;161
+Jogurt naturalny;61.77;2
+Kasza gryczana;2.87;127
+Kawa;30.97;177
+Musztarda sarepska;47.56;130
+Czekolada gorzka;39.27;9;promocja
+Miod;1.68;72
+Bob;27.57;14
+Mleko;38.40;17
+Mak;3.20;181
+Miod
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;46.14;151
+Ser zolty gouda;67.44;164
+Kasza gryczana;51.66;147
+Woda;4.44;14
+Kasza;67.69;64
+Chleb razowy;51.32;88
+Figi;72.60;36
+Miod;29.81;93
+Dzem;;1
+Czekolada gorzka;86.85;172
+Ketchup lagodny;17.53;98
+Herbata zielona;88.27;149
+Ser zolty gouda;56.24;23
+Jogurt naturalny;28.34
+  Parowki cielece ; 80.30 ; 147 
+Herbata;15.00;190
+Czekolada gorzka;73.72;200
+Ryz basmati;7.36;21
+Jajka;33.99;35
+Pomidory krojone;42.47;83
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;19.70;76
+Kasza;60.50;136
+
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;47.28;121
+
+Herbata;31.31;172
+Jogurt naturalny;23.38;172
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;18.26;31
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;72.85;156
+Miod;71.70;179
+  Ketchup lagodny ; 47.17 ; 15 
+Ryz;17.90;86
+
+Bulki grahamki;69.98;68
+Jogurt naturalny;42.02;110
+Szynka drobiowa;43.34;163
+Maslo;;2
+Parowki cielece;9.88
+Ketchup lagodny;26.52
+
+Mak;57.03;65
+Makaron pelnoziarnisty;46.92;163
+Ryz basmati;88.50;176
+Oliwa z oliwek;29.71;147
+Kawa ziarnista;17.53;108
+
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;10.38;106
+Bulki grahamki;49.62;158
+Dzem;66.79;18
+Chleb;69.71;111
+Groch;34.66;82
+Szynka drobiowa;78.56;63
+Ryz;72.41;124
+
+Olej
+Figi;7.29;32
+Kawa;71.77;24
+Olej;76.53;84
+Mak;70.81;119
+Woda;53.99;40
+Ryz basmati;33.17;108
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;4.07;76
+Herbata zielona;35.84;133
+Platki owsiane;85.16;64
+Dzem;34.67;124
+Kawa ziarnista;64.08;40
+Chleb;39.92;75
+Szynka drobiowa;35.68;154
+Chleb razowy;11.45
+Kasza gryczana;20.54
+Woda;18.54;113
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;58.50;34
+Chleb razowy;6.58;24;promocja
+Woda;14.89;10
+Maka;37.17;78
+Mleko;72.11;118
+Pomidory krojone;45.60;116
+Kasza gryczana;87.00;75
+Maka;14.85;6
+Kawa;20.52;49
+Maslo;25.45;195
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;87.41;157
+Miod;8.06;kilka
+Bob;2.41;75
+Oliwa z oliwek;62.76;31
+Jajka;47.22;112
+Czekolada gorzka;41.09;104
+Platki sniadaniowe wieloziarniste z orzechami i miodem;14.17;22
+Chleb razowy;67.74;148
+Groch;28.91;194
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;88.93;125
+Serek wiejski;51.93;44
+Groch;56.98;21
+Kawa;63.85;62
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;48.20;165
+  Maslo ; 79.94 ; 15 
+Jajka;64.29;97
+Kawa;39.21;62
+  Bulki grahamki ; 27.78 ; 50 
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;36.25;108
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;29.13;52
+Chleb;71.05;129
+Herbata zielona;37.72;186
+Cukier;4.29;91
+Bulki grahamki;36.12;55
+Herbata zielona;22.18
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;41.06;48
+Woda;71.31;60
+Olej;79.76;170
+Maslo;18.24;47
+Dzem;83.49;165
+Herbata zielona;15.08
+Kasza;2.17;147
+Chleb;11.36;150
+Olej;65.51;79
+Makaron pelnoziarnisty;45.67;48
+  Organiczna maka orkiszowa pelnoziarnista paczka 1kg ; 29.60 ; 99 
+  Mleko ; 29.81 ; 185 
+Groch;;7
+Parowki cielece;41.58;173
+Mleko;;7
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;54.79;94
+  Musztarda sarepska ; 58.44 ; 9 
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;38.54;105
+  Serek wiejski ; 77.87 ; 76 
+Kawa ziarnista;45.35;137
+  Kasza ; 9.26 ; 81 
+  Mleko ; 56.92 ; 60 
+Kasza gryczana;46.35;9
+Maka
+Maslo;70.39;123
+Ser;58.85;26
+Chleb razowy;80.22;29
+  Serek wiejski light o obnizonej zawartosci tluszczu 200g ; 29.61 ; 111 
+Pomidory krojone;5.89;26
+Platki sniadaniowe wieloziarniste z orzechami i miodem;65.79;101
+Chleb razowy;59.37;77
+Makaron pelnoziarnisty;23.80;104
+Jajka;75.70;51
+Herbata;40.32;69
+Pomidory krojone;37.15;198
+Maka;6.86;107
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;3.13;85
+Bob;24.96;49
+Makaron pelnoziarnisty;22.55;43
+Parowki cielece;64.55;58
+Ser;43.64;176
+Maslo;80.72;29
+Maka;89.05;11
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;87.96;121
+Musztarda sarepska;63.87;77
+Papryka czerwona;62.29;148
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;75.60;31
+  Kawa ; 18.87 ; 69 
+Bob;2.60;156
+Chleb;72.32;194
+Serek wiejski;28.44;24
+Platki sniadaniowe wieloziarniste z orzechami i miodem;75.90;44
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;81.51;102
+Maka;72.80;199
+Chleb;50.89;101
+
+Olej;48.21;56
+  Mleko ; 12.36 ; 177 
+Szynka drobiowa;35.86;122
+Oliwa z oliwek;47.15;103
+Kasza gryczana;79.04;172
+  Organiczna maka orkiszowa pelnoziarnista paczka 1kg ; 28.86 ; 109 
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;62.32;1
+Sok pomaranczowy;12.70;143
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;1.95;187
+Kawa ziarnista;84.98;82
+Woda;56.88;183
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;18.12;117
+Serek wiejski;42.55;191
+  Oliwa z oliwek extra vergine tloczona na zimno 500ml ; 5.92 ; 75 
+Chleb razowy;42.49;147
+Musztarda sarepska;53.90;48
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;36.04;89
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;63.07;192
+Sok pomaranczowy;40.62;23
+Woda;34.04;133
+Olej;35.63;161
+Serek wiejski;36.16;75
+Miod;36.37;146
+Chleb;43.25;13
+Jogurt naturalny;40.75;68
+Cukier;64.74;145
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;52.05;173
+Sok pomaranczowy;23.39;30;promocja
+Sol;32.18;154
+Chleb razowy;10.95;5
+Bulki grahamki;56.07;72
+Kasza gryczana;29.93;74
+Makaron pelnoziarnisty;82.74;1
+
+Ketchup lagodny;54.85;92
+  Ser zolty gouda ; 50.19 ; 199 
+Oliwa z oliwek;89.64;57
+Ser;18.35;3
+  Chleb ; 88.81 ; 60 
+Ketchup lagodny;83.65;184
+Olej;28.81;19
+Parowki cielece;18.56;26
+Cukier;36.36;57
+Maka;0.96;110
+Sol;;24
+Jajka;9.61;3
+Musztarda sarepska;27.52;150
+Groch;41.98;185
+Platki sniadaniowe wieloziarniste z orzechami i miodem;34.32;89
+Maslo;31.76;116
+Szynka drobiowa;29.03;38;promocja
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;76.51;67
+Jajka;54.81;142
+Ser zolty gouda;drogo;3
+Herbata
+Jajka;19.85;106
+Kawa;13.25;84
+Kawa;84.85;8
+Czekolada gorzka;17.22
+Czekolada gorzka;75.28;196
+Kasza gryczana;41.80;146
+Musztarda sarepska;drogo;19
+Ser zolty gouda;60.90;99
+Figi;51.99;127
+
+Dzem;84.97;60
+Oliwa z oliwek;80.12;104
+Szynka drobiowa;45.99;109
+Ser;1.56;89
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;24.06;32
+Bob;6.04;138
+Kasza;59.23;149
+
+Ketchup lagodny;48.81;168
+Sok pomaranczowy;6.06;28
+Ryz basmati;79.23;11
+Bob;85.73;99
+  Chleb ; 80.66 ; 187 
+Ryz basmati;21.02;199
+Platki sniadaniowe wieloziarniste z orzechami i miodem;17.64;115
+Maka;72.88;182
+Sol;4.12;178
+Parowki cielece;84.60;53
+Serek wiejski;64.90;143
+  Groch ; 0.55 ; 141 
+Kasza;82.64;194
+Ryz;85.69;94
+Olej;83.58;57
+Ryz;15.49;117
+Ser;47.49;106
+Woda;37.24;23
+Sok pomaranczowy;drogo;11
+Mak;22.99;140
+Figi;57.78;26
+Kawa;61.21;169
+Olej;34.88;39
+Kawa;52.34;151
+Ser;89.83;180
+Jogurt naturalny;86.26;54
+Herbata;76.43;169
+Cukier;73.77;32
+Woda;50.45;40
+Sok pomaranczowy;8.03
+Herbata;43.01;119
+Mak;13.81;64
+Herbata zielona;drogo;5
+Pomidory krojone;78.17;113
+Maka;9.38;22
+Bulki grahamki;60.60;184
+Mleko;24.82;168
+Czekolada gorzka;26.97;97
+Groch;15.46;134
+Ryz basmati;80.05;53
+Sol;17.90;93
+Herbata;34.41;193
+
+Figi;;19
+Chleb razowy;36.27;53
+Makaron pelnoziarnisty;37.02
+Sok pomaranczowy;18.73
+Kasza gryczana;41.16;70
+Mak;19.32;190
+Chleb razowy;71.38;91
+Platki owsiane;85.48;125
+Chleb;;16
+Herbata zielona;50.15;149
+Woda;86.44;92
+Ser;45.67;120
+Papryka czerwona;33.49;158
+Parowki cielece;10.56;154
+Mak;44.19;15
+Makaron pelnoziarnisty;30.37;4
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;50.61;161
+Groch;39.75;2
+Ketchup lagodny;61.33;189
+Pomidory krojone;85.18;104
+Pomidory krojone;40.27;140
+Jogurt naturalny;11.60;17
+Maka;6.36;87
+Makaron pelnoziarnisty;81.68;10
+Kawa ziarnista;drogo;16
+Kasza gryczana;39.95;160
+Chleb;46.50;174
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;51.44;16
+Mleko;62.53;36
+Groch;0.62;183
+Kasza;87.46;43
+Maslo;81.48;150
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;88.12;48
+Sok pomaranczowy;34.06;193
+Szynka drobiowa;3.91;109
+
+Platki owsiane;23.61;189
+Pomidory krojone;23.57;30
+  Kawa ; 36.98 ; 48 
+Parowki cielece;33.81;80
+Chleb razowy;83.03;176
+Platki owsiane;29.92;156
+Szynka drobiowa;40.17;196
+Oliwa z oliwek;9.86;171
+Mak;18.38;115
+Ser zolty gouda;30.51;174
+Cukier;;22
+Serek wiejski;28.72
+Herbata zielona;87.63;102
+Cukier;45.04;153
+Miod;86.12;103
+Ketchup lagodny;65.54;81
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;56.86;108
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;14.32;138
+Maslo;75.20;15
+Woda;42.54;55
+Kawa;87.50;160
+Mak;64.05;47
+Musztarda sarepska;19.99;11;promocja
+
+Ser;57.34;32
+Pomidory krojone;83.17;19
+Musztarda sarepska;20.00;155
+Herbata;35.90;43
+Oliwa z oliwek;84.59;103
+Mak;15.04;124
+Groch;4.15;199
+Ser;83.37;186
+
+Kasza;35.48;20
+Woda;74.38;52
+Ketchup lagodny;86.98;90
+Parowki cielece;59.96;93
+Ryz;23.73;59
+Mak;6.07;170
+Maslo;79.86;61
+Jogurt naturalny;30.39;103
+Sok pomaranczowy;drogo;8
+Kawa ziarnista;42.89;53
+Cukier;26.66;169
+Cukier;73.02;75
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;22.10;7
+Oliwa z oliwek;60.47;11
+Miod;60.41;62
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;72.07;23
+Maslo;80.50;107
+Ketchup lagodny;26.00;175
+Platki owsiane;10.85;121
+Kawa ziarnista;69.90;136
+Papryka czerwona;63.76;163
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;83.72;51
+Ketchup lagodny;66.35;135
+Sol;71.93;32
+Kasza;46.15;148
+Cukier
+Kasza;57.66;127
+Platki owsiane;89.28;65
+Musztarda sarepska;9.52;68
+
+Kasza gryczana;30.63;17
+Ketchup lagodny;10.67;170
+  Dzem ; 15.11 ; 41 
+Groch;22.04;88
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;15.38;54
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;21.40;68
+Maka;45.71;176
+Bulki grahamki;5.43;67
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;51.14;65
+  Bulki grahamki ; 28.12 ; 97 
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;78.01;156
+Herbata zielona;17.42;134
+  Groch ; 65.75 ; 153 
+Maslo;19.35;99
+Ryz basmati;drogo;12
+Sol;18.98;174
+  Miod ; 29.97 ; 175 
+Sok pomaranczowy;39.08;134
+Mak;4.17;30
+Chleb razowy;11.13;19
+Jajka
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;50.74;93
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;45.80;89
+Bulki grahamki;17.70;166
+Jajka
+Cukier;63.33;182
+Chleb razowy;50.69;142
+Ryz;55.76;197
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;27.60;55
+Woda;61.30;51
+Kasza gryczana;13.51;18;promocja
+Oliwa z oliwek;14.21;36;promocja
+Musztarda sarepska;72.18;46
+Papryka czerwona;87.15;78
+Oliwa z oliwek;5.05;49
+Bulki grahamki;45.63;15
+Sok pomaranczowy;44.69;75
+Miod;47.64;37
+Jogurt naturalny;78.82;106
+Figi;44.80;189
+Kawa;39.98;86
+Parowki cielece;44.75;113
+Dzem;89.03;187
+Cukier;54.24;55
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;60.00;118
+Ser;52.56;87
+Mak;13.89;136
+Makaron pelnoziarnisty;77.03;138
+  Ryz ; 22.86 ; 130 
+Herbata zielona;33.83;36;promocja
+Platki sniadaniowe wieloziarniste z orzechami i miodem;75.25;59
+Kawa;81.14;164
+Parowki cielece;4.76;37;promocja
+Papryka czerwona;82.44;192
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;42.54;163
+Groch;21.34;3
+Kawa ziarnista;62.54;85
+Sok pomaranczowy;71.28;23
+Szynka drobiowa;76.43;160
+
+Ketchup lagodny;50.02;125
+Kawa;5.87;55
+Cukier;47.59;60
+Ryz;32.87;92
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;0.76;5
+Kawa ziarnista;82.21;119
+Herbata zielona;89.27;43
+Mak;67.97;5
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;65.14;77
+Czekolada gorzka;38.40;107
+Oliwa z oliwek;7.61
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;65.63;184
+  Ser zolty gouda ; 1.00 ; 150 
+Mak;63.60;116
+  Figi ; 58.67 ; 182 
+Chleb;56.81;117
+Serek wiejski;60.53;168
+Ryz;83.82;35
+Kawa;6.01;kilka
+Dzem;86.66;128
+Groch;44.64;114
+Kawa
+Kasza;23.53;177
+Dzem;41.34;66
+Groch;54.39;22
+Szynka drobiowa;33.79;44
+Miod;45.85;166
+Maslo;89.62;26
+Maka;66.91;194
+Oliwa z oliwek;50.60;169
+
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;63.65;1
+Sok pomaranczowy;11.57;165
+Kawa ziarnista;74.84;191
+Ketchup lagodny;76.36;200
+Mak;84.42;98
+Sol;;23
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;15.93;133
+Kasza gryczana;45.67;104
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;23.32;8
+Kawa ziarnista;65.94;24
+Platki owsiane;66.91;9
+Mak;40.87;157
+Ryz;41.50;195
+Kasza;33.65;9
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;65.28;189
+Chleb;50.67;89
+Woda;8.49;25
+Pomidory krojone;17.06;43
+
+Bulki grahamki;78.26;9
+Oliwa z oliwek;7.32;10
+Oliwa z oliwek;13.19;41
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;9.53;147
+Pomidory krojone;48.00;151
+Herbata zielona;31.97;155
+Sok pomaranczowy;1.99;194
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;11.63;108
+Herbata;47.59;167
+Ketchup lagodny;5.07;127
+Woda;63.34;45
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;17.49;198
+Serek wiejski;56.24;84
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;65.73;173
+Cukier;3.01;46
+Dzem;;12
+Bob;74.42;144
+  Cukier ; 43.38 ; 7 
+Platki owsiane;17.09;160
+Ketchup lagodny;41.22;118
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;63.15;22
+Kawa;6.57;52
+Ketchup lagodny;21.31;182
+Kasza;45.09;2
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;3.03;76
+Czekolada gorzka;34.53;110
+Cukier;38.10;151
+Czekolada gorzka;89.38;110
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;53.43;136
+Papryka czerwona;78.00;12
+Jogurt naturalny;63.61;11
+Platki owsiane;79.96;5
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;69.97;78
+Chleb;24.82;5
+Maslo;40.94;143
+Ryz basmati;64.94;11
+Parowki cielece;22.33;37
+Figi;69.54;115
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;23.50;105
+Chleb;60.06;28
+Sol;17.37;163
+Platki owsiane;75.58;186
+Jogurt naturalny;20.51;98
+Ryz basmati;9.72
+Kawa ziarnista;21.30;148
+Ryz basmati;72.53;20
+Kawa ziarnista;80.34;195
+Ryz;54.21;79
+Musztarda sarepska;32.78;172
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;9.82;61
+Sok pomaranczowy;15.75;23;promocja
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;87.23;141
+Sok pomaranczowy;89.04;72
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;54.47;29
+Mak
+Papryka czerwona;17.72;161
+Mak
+Figi;87.69;192
+Groch;89.05;43
+Bulki grahamki;56.31;66
+
+Mak;89.31;183
+Jogurt naturalny;34.87;71
+Platki sniadaniowe wieloziarniste z orzechami i miodem;76.73;26
+Sol;83.96;147
+Herbata zielona;60.75;95
+Figi;8.73;164
+Chleb razowy;44.51;196
+Makaron pelnoziarnisty;67.62;140
+Ser;80.03;16
+Herbata;68.07;7
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;21.80;113
+Sok pomaranczowy;37.83;28
+Jogurt naturalny;54.28;73
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;46.40;62
+Serek wiejski;15.85;137
+Miod;44.03;197
+Dzem;39.44;162
+Cukier;76.74;125
+Maslo;37.85;122
+Kasza;6.16;73
+Kawa ziarnista;28.74;33
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;43.73;165
+Maka;83.77;189
+Platki owsiane;13.80;122
+Szynka drobiowa;74.96;24
+Serek wiejski;26.45
+Serek wiejski;32.79;194
+Herbata;69.91;183
+Musztarda sarepska;10.90
+Musztarda sarepska;24.50
+Cukier;5.91;176
+Kawa;;28
+Ser zolty gouda;1.56;200
+Ser zolty gouda;68.90;126
+Sol;16.24;184
+Oliwa z oliwek;63.24;107
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;30.58;47
+Woda;17.78;110
+Ser zolty gouda;drogo;7
+Olej;60.46;99
+Ketchup lagodny;7.16;74
+Bulki grahamki;58.10;81
+Parowki cielece;30.69;175
+Pomidory krojone;56.58;117
+  Kawa ; 36.58 ; 159 
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;48.20;160
+Kawa ziarnista;15.94;4;promocja
+Maslo
+Cukier
+Czekolada gorzka;29.30;32;promocja
+Mak;66.25;115
+Maka
+Papryka czerwona;65.64;113
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;19.20;8
+Maka;85.52;112
+Maka;54.91;7
+Makaron pelnoziarnisty;drogo;10
+Czekolada gorzka;7.10;160
+Chleb;8.62;149
+Sol;56.05;106
+Kawa;79.35;136
+Woda;;2
+Kawa ziarnista;34.69;177
+Parowki cielece;drogo;11
+Ser zolty gouda;30.74;13
+Bulki grahamki;59.99;36
+Kawa ziarnista;35.32
+Papryka czerwona;21.33;68
+Makaron pelnoziarnisty;74.12;144
+Platki sniadaniowe wieloziarniste z orzechami i miodem;18.49;21
+Papryka czerwona;11.84;156
+Serek wiejski;14.26;33;promocja
+Chleb razowy;77.03;155
+Chleb razowy;78.35;118
+Papryka czerwona;34.60;8;promocja
+Maslo;27.66;82
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;66.31;137
+Kasza;72.74;138
+Oliwa z oliwek;25.88;23
+Parowki cielece;1.62;122
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;57.07;69
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;1.29;39
+Herbata zielona;2.26;88
+Ketchup lagodny;0.64;153
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;43.96;10
+Groch;50.38;106
+Sok pomaranczowy;5.15;37;promocja
+Ryz;20.35;132
+Dzem
+Ryz basmati;1.10;44
+Mak
+Cukier;40.23;26
+
+Bob;80.08;20
+Bulki grahamki;15.87;141
+Maslo;52.54;160
+Kasza gryczana;29.43;97
+Chleb razowy;3.55
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;15.78;60
+Kawa;57.37;13
+Papryka czerwona;70.35;178
+Ryz basmati;58.08;111
+Ser zolty gouda;82.04;91
+
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;74.18;35
+Kasza gryczana;drogo;18
+Sok pomaranczowy;9.82;13
+Sol
+Maka;76.65;130
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;75.96;92
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;18.41;198
+  Kasza gryczana ; 43.84 ; 193 
+Woda;70.14;54
+Miod;20.69;27
+Jogurt naturalny;84.46;107
+
+Sok pomaranczowy;1.29;1
+Kawa;27.77;132
+Bob;79.77;157
+Sok pomaranczowy;65.77;95
+Makaron pelnoziarnisty;29.78
+Ryz;30.16;108
+Groch;89.44;54
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;29.84;64
+Bob;74.71;141
+Woda;70.03;64
+Ser;50.54;20
+  Platki owsiane ; 34.92 ; 36 
+Cukier;17.69;119
+Mleko;18.28;195
+Herbata zielona;10.71
+Serek wiejski;48.02;50
+Ryz;30.11;105
+Maka;3.57;162
+Groch;4.41;117
+Czekolada gorzka;13.66;165
+Figi;89.30;183
+Sol;84.88;198
+Herbata;79.99;24
+  Groch ; 62.02 ; 180 
+Parowki cielece;15.33;186
+Ser zolty gouda;15.84;29;promocja
+Oliwa z oliwek;21.00;32
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;5.62;58
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;19.33;105
+Papryka czerwona;4.25;109
+Ser zolty gouda;74.33;125
+Chleb;12.65;107
+Maslo;5.10;55
+Maka;53.03;167
+Sok pomaranczowy;71.62;36
+Maslo;57.72;108
+Musztarda sarepska;87.93;46
+Olej;27.79;103
+Musztarda sarepska;2.29;197
+Platki owsiane;27.18;68
+Pomidory krojone;42.74;118
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;85.84;63
+Jajka;59.70;171
+  Jogurt grecki wysokobialkowy bez cukru kubek 400g ; 32.06 ; 170 
+Ryz basmati;68.89;111
+Ryz;1.95;87
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;80.90;31
+Kasza gryczana;60.85;174
+  Kasza ; 32.74 ; 60 
+Maka;36.91;123
+
+Herbata zielona;41.86;196
+Woda;88.01;84
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;39.36;109
+Dzem;8.89;140
+Olej;60.48;57
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;81.46;131
+Kawa ziarnista;16.83;5
+Ryz;85.45;22
+Figi;62.96;11
+Ser
+Serek wiejski;49.04;32
+Chleb;12.71;134
+Herbata zielona;6.19;146
+Dzem;43.37;28
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;89.72;90
+Mak;59.02;180
+Maka;47.51;78
+Sol;27.07;38
+Platki owsiane;33.89
+Woda;24.28;106
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;61.62;140
+
+Szynka drobiowa;27.72
+Cukier
+Musztarda sarepska;66.98;75
+  Cukier ; 72.78 ; 2 
+Bob;48.10;112
+Sol;85.92;84
+Dzem;11.72;20
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;74.86;147
+  Musztarda sarepska ; 49.00 ; 15 
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;32.40;119
+Maka;17.57;27
+Musztarda sarepska;14.84;191
+  Herbata ; 31.44 ; 179 
+Bob;83.86;26
+Herbata;31.77;164
+Jogurt naturalny;14.71;190
+
+Sok pomaranczowy;17.24;120
+Pomidory krojone;7.64;76
+  Papryka czerwona ; 38.46 ; 73 
+Czekolada gorzka;9.36
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;30.55;40
+Parowki cielece;63.28;14
+Makaron pelnoziarnisty;44.90;173
+Figi;72.21;134
+Czekolada gorzka;24.90;135
+Herbata;38.92;186
+Pomidory krojone;38.16;87
+Dzem;81.21;46
+Herbata;14.01;kilka
+Papryka czerwona;6.00;46;promocja
+Kasza;83.04;107
+Maslo;16.81;171
+Bob
+Kasza gryczana;79.91;33
+Maslo;60.13;7
+Szynka drobiowa;85.32;196
+  Oliwa z oliwek extra vergine tloczona na zimno 500ml ; 20.79 ; 7 
+Papryka czerwona;87.70;145
+Sol;10.97;189
+Kasza
+Maslo;19.26;130
+Kasza gryczana;80.06;164
+Bob;46.56;119
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;60.72;90
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;67.18;196
+Sol;37.10;151
+Serek wiejski;8.74;154
+Ryz
+
+Kawa ziarnista;29.22;162
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;89.48;18
+Szynka drobiowa;24.84;190
+  Miod ; 86.85 ; 83 
+Mak;8.13;97
+Sol;56.86;123
+Platki owsiane;44.91;142
+Dzem
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;18.00;122
+Papryka czerwona;30.72;121
+Ryz basmati;63.49;125
+Maka;43.86;58
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;78.32;10
+Platki sniadaniowe wieloziarniste z orzechami i miodem;12.47;13
+Oliwa z oliwek;65.18;14
+Ser;3.37;177
+Olej;57.48;185
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;83.19;47
+Makaron pelnoziarnisty;38.10;199
+Platki sniadaniowe wieloziarniste z orzechami i miodem;2.16;102
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;70.84;129
+Ryz basmati;39.33
+
+Mak;59.68;11
+Figi;82.12;168
+Ryz basmati;49.72;163
+Ryz;62.62;190
+
+Olej;19.81;158
+Kasza gryczana;28.94;91
+Olej;49.88;116
+Kasza;79.89;194
+Figi;5.01;165
+Oliwa z oliwek;4.26
+Cukier;13.73;16
+Platki owsiane;36.66;165
+Jajka;23.52;88
+Jajka;63.45;69
+
+Woda;65.50;119
+Makaron pelnoziarnisty;67.98;111
+Serek wiejski;15.45;47
+Sol;43.77;42
+Oliwa z oliwek;43.10;162
+  Serek wiejski light o obnizonej zawartosci tluszczu 200g ; 84.93 ; 52 
+Mleko;80.72;5
+Woda;;5
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;21.95;107
+Figi;11.28;82
+Kawa ziarnista;23.08;49
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;71.94;138
+Sol;58.04;179
+Kawa
+Platki owsiane;39.39;29
+Serek wiejski;88.80;112
+Ryz;33.13;53
+Kasza;71.06;145
+Ketchup lagodny;52.10;48
+Herbata;6.07;13
+Maka;49.40;49
+Maka;18.59;110
+Olej;13.40;34
+Maslo;32.45;175
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;89.09;190
+Maka;64.61;76
+Jogurt naturalny;70.18;118
+Musztarda sarepska;85.21;187
+Szynka drobiowa;69.28;185
+Parowki cielece;30.23;183
+Miod;75.74;93
+Maslo;;22
+Maka;54.32;121
+Figi;63.91;40
+Jajka;32.18;108
+Cukier;18.88;kilka
+Herbata;10.26;29
+  Ryz ; 8.93 ; 60 
+Serek wiejski;57.02;136
+Miod;32.90;158
+Mleko;87.08;103
+Ser zolty gouda;8.23;149
+Ketchup lagodny;56.59;96
+Dzem;28.05;193
+Herbata zielona;65.09;199
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;64.98;3
+Serek wiejski;69.88;74
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;60.31;112
+Makaron pelnoziarnisty;5.82;160
+Maslo;74.29;179
+Szynka drobiowa;23.46;136
+Pomidory krojone;72.98;18
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;54.58;98
+Oliwa z oliwek;19.81;38;promocja
+
+Ryz;14.74;145
+Chleb;86.18;36
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;62.27;194
+Kawa ziarnista;44.84;149
+Maslo;70.57;196
+Olej;55.61;115
+  Parowki cielece ; 40.32 ; 19 
+Figi;55.75;78
+Sok pomaranczowy;78.04;48
+Sol;64.93;62
+
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;68.24;184
+Kawa;40.58;141
+Ryz;88.93;78
+Jogurt naturalny;59.01;131
+Ketchup lagodny;84.31;9
+Kasza gryczana;35.93;122
+Miod;82.32;197
+Szynka drobiowa;64.63;166
+Miod;74.39;12
+Bob;25.98;11
+Maslo;9.62;49
+Papryka czerwona;21.44;82
+Kasza;4.17;53
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;4.35;175
+Papryka czerwona;39.52;1
+Serek wiejski;25.20;165
+Musztarda sarepska;4.41
+Sol;64.40;99
+Mak;22.36;92
+
+
+Ryz;83.03;191
+Jajka;67.61;43
+Herbata;64.60;10
+  Pomidory krojone ; 15.05 ; 20 
+Oliwa z oliwek;47.58;59
+Mleko;85.36;97
+Dzem
+Dzem
+  Platki owsiane ; 32.70 ; 13 
+Cukier;9.26;134
+Kawa ziarnista;38.39;162
+  Herbata zielona ; 12.20 ; 8 
+Jajka;;4
+Mak;17.44;121
+Groch;29.78;27
+Ryz;73.46;12
+Pomidory krojone;85.12;107
+Cukier;;29
+Maslo;8.56;84
+Jogurt naturalny;30.34;24
+
+Dzem;2.15;173
+Groch;86.35;21
+  Bulki grahamki ; 49.35 ; 70 
+Makaron pelnoziarnisty;61.11;76
+Szynka drobiowa;58.36;66
+Pomidory krojone;drogo;3
+Ser zolty gouda;70.86;94
+Ryz;47.98;23
+Makaron pelnoziarnisty;1.14;41;promocja
+Chleb;55.50;52
+Kawa;38.41;188
+Woda;46.71;144
+Jogurt naturalny;38.73;64
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;69.16;183
+Mleko;61.24;90
+Figi;76.57;173
+Ketchup lagodny;6.88;154
+Mak;69.34;104
+Cukier
+Cukier
+Kawa ziarnista;38.58;173
+Mleko;43.47;34
+Olej;8.84;100
+Serek wiejski;drogo;15
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;28.46;175
+Sok pomaranczowy;86.30;34
+Pomidory krojone;76.19;151
+Jajka;7.40;137
+Groch;25.94;8
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;66.12;130
+Figi;79.08;146
+Dzem;23.31;149
+Groch;43.30;44
+Herbata zielona;20.60;176
+Bulki grahamki;24.05;95
+Platki sniadaniowe wieloziarniste z orzechami i miodem;51.99;176
+Jajka;32.41;51
+Bob;42.44;191
+Serek wiejski;13.77;173
+Groch;10.05;118
+Oliwa z oliwek;19.84;48
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;67.51;145
+Kawa;18.16;133
+Bob;28.16;174
+Czekolada gorzka;32.82;13
+Woda;54.17;117
+
+Papryka czerwona;50.16;172
+Sol;80.88;38
+Woda;55.47;78
+Herbata;86.16;5
+Musztarda sarepska;52.12;132
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;45.58;171
+Maka;70.58;141
+Ryz basmati;4.72;143
+Miod;19.70;198
+Bulki grahamki;69.36;143
+Kawa;31.91;32
+Maka;22.14;30
+Dzem;27.20;25
+Kasza gryczana;3.86;188
+Serek wiejski;62.36;58
+Kasza;40.43;23
+Parowki cielece;4.83;32
+Herbata zielona;73.64;145
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;72.42;128
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;56.79;2
+Pomidory krojone;35.06;51
+Chleb;44.52;166
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;89.76;14
+Mak;82.06;111
+  Olej ; 58.49 ; 25 
+Herbata zielona;17.99;27
+Mleko;82.66;155
+Kasza gryczana;26.91;119
+Platki owsiane;46.17;62
+Mak;37.13;6
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;76.24;89
+Groch;66.10;88
+Kasza;56.47;130
+Woda
+Dzem;68.67;106
+  Jogurt naturalny ; 39.05 ; 91 
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;72.80;177
+Sol;20.91;94
+Kasza;27.35;4
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;66.90;103
+Parowki cielece;58.49;121
+Olej;34.40;178
+Pomidory krojone;84.32;39
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;47.07;74
+Platki sniadaniowe wieloziarniste z orzechami i miodem;71.85;150
+Miod;86.60;16
+Groch;18.94;91
+Kawa ziarnista;32.03;175
+Sol;40.41;185
+Mak;58.11;39
+  Szynka drobiowa ; 31.20 ; 48 
+Mleko;36.03;105
+Maslo;72.30;25
+Kawa;71.45;68
+Papryka czerwona;81.05;121
+Ketchup lagodny;85.48;132
+Pomidory krojone;83.43;140
+Makaron pelnoziarnisty;15.91;85
+Groch;21.69;121
+
+Parowki cielece;6.91
+Parowki cielece;60.48;28
+Miod;37.10;78
+Makaron pelnoziarnisty;55.07;168
+Olej;15.25;78
+Kasza;11.24;103
+Platki owsiane;27.66;12
+Papryka czerwona;37.34;13
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;35.81;127
+Jajka;29.71;81
+Groch;;4
+Woda;55.78;70
+Olej;8.15;91
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;86.52;187
+Kawa;50.64;110
+Maka;32.35;124
+
+Maka;89.45;97
+Herbata zielona;8.92
+Szynka drobiowa;8.06;32
+Bulki grahamki;3.31
+Mleko;28.17;8
+Jajka;36.08;48
+Jogurt naturalny;drogo;14
+Herbata zielona;76.83;1
+Chleb razowy;85.70;188
+Platki sniadaniowe wieloziarniste z orzechami i miodem;3.09;21
+Platki owsiane;37.59;169
+Musztarda sarepska;16.77
+Serek wiejski;64.83;119
+Mleko;86.72;164
+  Pomidory krojone ; 33.59 ; 79 
+Szynka drobiowa;20.38;68
+Mleko;17.60;27
+Sok pomaranczowy;55.86;192
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;35.93;43
+Pomidory krojone;38.68
+Musztarda sarepska;34.76;153
+Chleb razowy;73.10;78
+Bulki grahamki;73.69;195
+Jajka;;24
+Papryka czerwona;55.33;95
+Ser zolty gouda;4.20;196
+Kawa ziarnista;17.60;135
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;79.06;160
+Makaron pelnoziarnisty;12.32;142
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;54.94;90
+Groch;84.75;110
+Ser zolty gouda;32.27;165
+Olej;12.54;72
+Herbata;12.27;122
+Jogurt naturalny;84.23;67
+Mleko;60.07;64
+Ser zolty gouda;5.17
+Woda;85.83;150
+Parowki cielece;83.53;37
+Kasza gryczana;11.98;188
+
+Mak;17.85;64
+Herbata;32.63;128
+Serek wiejski;67.00;50
+  Groch ; 25.06 ; 47 
+Olej;38.80;173
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;43.23;88
+Maka;80.51;158
+Dzem;11.53;46
+Jogurt naturalny;48.55;59
+Ketchup lagodny;17.86;39;promocja
+Cukier;51.33;64
+Sok pomaranczowy;20.25;13;promocja
+Jajka;67.50;102
+Serek wiejski;36.85;80
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;70.75;194
+  Bob ; 9.88 ; 49 
+Olej;11.27;165
+Papryka czerwona;72.41;25
+Sok pomaranczowy;74.60;197
+Olej;18.41;134
+Serek wiejski;44.71;196
+Makaron pelnoziarnisty;53.46;43
+Groch;70.30;10
+Cukier;66.80;34
+Olej;57.61;98
+Ketchup lagodny;37.99;157
+Chleb;49.10;148
+Miod;46.57;1
+
+Kasza;;8
+Ryz;71.03;127
+Parowki cielece;16.07;86
+Maslo;;14
+Herbata zielona;66.35;13
+Szynka drobiowa;49.81;106
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;48.60;148
+Cukier;1.28;29
+  Chleb ; 55.92 ; 149 
+Sok pomaranczowy;27.34;30
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;85.32;43
+Ser;77.43;14
+  Woda ; 21.69 ; 73 
+Ryz;44.25;146
+Maslo
+Kasza;18.74;34
+Oliwa z oliwek;12.09;147
+Mleko;42.91;10
+Serek wiejski;49.71;94
+Ketchup lagodny;83.23;83
+Jogurt naturalny;87.82;163
+Maka;83.82;68
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;7.16;181
+Herbata;48.54;104
+Jajka;85.41;5
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;54.04;64
+Chleb razowy;62.36;55
+Ryz;31.97;106
+Chleb;47.58;139
+Groch;78.53;79
+Pomidory krojone;47.54;72
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;16.20;3
+Ryz basmati;58.76;173
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;56.13;175
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;46.81;152
+Kawa ziarnista;34.10;105
+  Makaron pelnoziarnisty ; 82.72 ; 66 
+Kasza;80.83;178
+Platki owsiane;77.44;121
+Ser zolty gouda;15.57
+Makaron pelnoziarnisty;41.50;162
+Jogurt naturalny;31.36;30
+Jogurt naturalny;76.52;180
+Mleko;76.08;153
+Kawa;63.38;49
+Sok pomaranczowy;42.92;61
+Figi;24.13;46
+Woda;14.30;23
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;67.37;150
+Maslo;48.01;27
+Woda;55.06;112
+Mak;81.76;192
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;6.04;94
+Pomidory krojone;63.68;97
+Pomidory krojone;9.35;90
+Kasza gryczana;1.40;45
+Ser;59.68;157
+Ryz;22.90;158
+Kasza;73.14;172
+Kawa
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;89.43;179
+Serek wiejski;drogo;9
+Chleb;72.28;94
+Groch;60.28;154
+  Kawa ; 67.69 ; 106 
+Chleb razowy;26.63;23
+Oliwa z oliwek;40.26;140
+Serek wiejski;64.15;155
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;37.22;36
+Parowki cielece;25.80;72
+Jogurt naturalny;49.49;176
+Kawa;77.54;92
+Platki sniadaniowe wieloziarniste z orzechami i miodem;9.27;136
+Jajka;15.61;36
+Ryz basmati;32.41
+Herbata zielona;45.41;1
+Kawa;40.75;33
+
+  Maka ; 23.81 ; 118 
+Ryz basmati;8.06;25;promocja
+
+Oliwa z oliwek;10.71;99
+Sok pomaranczowy;88.43;47
+Jajka;;11
+Miod;28.66;88
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;69.95;82
+Olej;75.15;95
+Kawa ziarnista;17.76;38
+Parowki cielece;43.56;141
+Szynka drobiowa;15.05;184
+Jajka;60.51;135
+Sok pomaranczowy;73.44;73
+Ketchup lagodny;28.13;176
+Olej;28.17;112
+
+Ser;73.19;76
+Olej;14.82;23
+  Oliwa z oliwek extra vergine tloczona na zimno 500ml ; 42.60 ; 93 
+Platki sniadaniowe wieloziarniste z orzechami i miodem;65.74;92
+Szynka drobiowa;1.12;24
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;51.47;24
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;32.74;167
+Oliwa z oliwek;65.22;33
+Mak;42.11;115
+Musztarda sarepska;79.47;16
+Serek wiejski;79.61;6
+Sok pomaranczowy;2.57;168
+Kawa;51.09;12
+Maslo;45.01;62
+Bob;19.74;56
+Herbata zielona;59.79;71
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;25.02;188
+Jogurt naturalny;77.99;165
+
+Groch;15.65;49
+Woda;9.42;131
+Olej;0.67;75
+Olej;10.82;174
+Ser;63.69;198
+  Platki owsiane ; 25.58 ; 50 
+  Herbata zielona ; 70.30 ; 46 
+Mak;89.78;161
+Maka
+Kasza gryczana;25.41;186
+Kasza gryczana;6.74;49;promocja
+Herbata zielona;79.23;183
+Makaron pelnoziarnisty;7.14;94
+Oliwa z oliwek;15.41;18;promocja
+Kasza gryczana;11.56
+Groch;64.80;165
+Mak;38.31;184
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;85.45;148
+Figi;16.77;198
+Ryz basmati;67.35;127
+Platki owsiane;70.63;72
+Kawa;40.68;173
+Ryz;69.44;105
+Bob;60.58;51
+Oliwa z oliwek;80.60;134
+Pomidory krojone;11.89;34;promocja
+Dzem;49.54;90
+Serek wiejski;1.33;49
+  Czekolada gorzka ; 76.51 ; 97 
+
+Herbata;74.57;129
+Mak;51.31;135
+Herbata;17.01;137
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;72.56;45
+Ryz basmati;27.95;13;promocja
+Kawa;5.06;19
+Ser zolty gouda;47.22;19
+Kawa;60.91;99
+Maka;11.02;77
+Mak;85.78;96
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;40.45;3
+Makaron pelnoziarnisty;62.43;180
+Dzem;75.45;52
+Parowki cielece;7.49;121
+  Serek wiejski ; 80.04 ; 83 
+Ketchup lagodny;8.97;126
+Platki sniadaniowe wieloziarniste z orzechami i miodem;3.18;116
+Chleb;41.44;106
+Herbata;1.72;72
+Ketchup lagodny;1.66;62
+Woda;12.29;167
+Mak;39.24;163
+Herbata;21.62;143
+Maslo;14.66;kilka
+Herbata zielona;26.45;67
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;10.08;93
+Figi;2.33;105
+Sok pomaranczowy;58.05;183
+Jajka;72.21;165
+Herbata zielona;3.62;20
+Miod;12.44;68
+Herbata zielona;75.70;133
+Ketchup lagodny;37.55;86
+Ketchup lagodny;5.85
+Figi;35.00;185
+Sok pomaranczowy;19.99;72
+Platki sniadaniowe wieloziarniste z orzechami i miodem;52.95;77
+Woda;28.65;21
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;53.24;13
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;44.53;194
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;38.28;185
+Groch;54.36;180
+Bulki grahamki;29.13;126
+Jajka;89.92;101
+Bulki grahamki;42.40;132
+Herbata zielona;75.41;162
+Kawa;32.94;34
+Musztarda sarepska;47.99;120
+
+Jajka;11.66;164
+Musztarda sarepska;57.50;169
+Mak
+Ketchup lagodny;80.37;81
+Cukier;84.68;80
+Maslo;38.00;27
+Sol;85.67;28
+Szynka drobiowa;19.10;151
+Mak;;9
+Szynka drobiowa;70.52;136
+Serek wiejski;36.97;16;promocja
+Ryz basmati;29.72;180
+Papryka czerwona;82.58;159
+Maslo;27.52;167
+Szynka drobiowa;16.68;124
+Cukier;55.64;79
+Ser;34.04;104
+Sok pomaranczowy;5.33;74
+Maka;25.60;80
+Parowki cielece;1.84;15;promocja
+Sol;9.44;40
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;46.30;142
+Czekolada gorzka;drogo;12
+
+Dzem
+Kawa ziarnista;2.67;100
+Pomidory krojone;74.15;132
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;5.65;37
+Czekolada gorzka;15.57;172
+Maka;48.02;167
+  Woda ; 59.42 ; 140 
+Ryz;76.02;136
+Jajka;3.44;132
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;56.25;162
+Sol;25.90;151
+Ser zolty gouda;19.35
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;63.32;19
+Czekolada gorzka;48.27;61
+Papryka czerwona;8.96;126
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;15.26;81
+Platki owsiane;37.92;26
+Kasza;80.26;140
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;89.52;42
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;67.55;118
+Miod;24.54;6
+Sol;9.30;48
+Maslo
+Ser;52.76;133
+Kawa ziarnista;9.79
+Chleb razowy;24.27;86
+Woda;1.94;110
+Miod;7.24;84
+Papryka czerwona;3.54;60
+Szynka drobiowa;20.66
+Makaron pelnoziarnisty;71.16;133
+Czekolada gorzka;18.59;183
+Papryka czerwona;39.46;15
+Kawa ziarnista;60.05;117
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;12.85;185
+Bulki grahamki;5.70;20
+Ser zolty gouda;13.78;81
+Kawa ziarnista;29.16;65
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;51.90;130
+Kawa;27.63;183
+Figi;4.80;100
+Herbata zielona;39.06;10
+Cukier;69.18;57
+Parowki cielece;5.69
+Ser
+Figi;;13
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;59.50;1
+Czekolada gorzka;40.55;129
+Oliwa z oliwek;48.75;166
+Musztarda sarepska;39.97;119
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;55.85;59
+  Mak ; 80.98 ; 200 
+Ryz;51.11;27
+Kasza;3.38;19
+Ser zolty gouda;2.48;49
+Ketchup lagodny;71.09;116
+Parowki cielece;10.49
+Czekolada gorzka;47.38;29
+Mleko;27.70;kilka
+Papryka czerwona;64.86;56
+Kawa ziarnista;34.51;179
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;32.76;87
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;4.33;32
+Figi;11.86;133
+Kawa ziarnista;63.08;14
+Kasza gryczana;53.27;117
+Kawa ziarnista;11.33;34
+Ryz basmati;87.73;13
+Bulki grahamki;35.22;15;promocja
+Czekolada gorzka;drogo;6
+Bob;80.16;50
+Czekolada gorzka;21.67;168
+Platki sniadaniowe wieloziarniste z orzechami i miodem;88.61;111
+Woda;53.37;107
+Kasza
+Kasza;40.02;137
+Herbata zielona;29.17;41;promocja
+Platki sniadaniowe wieloziarniste z orzechami i miodem;64.95;183
+Czekolada gorzka;74.45;182
+Czekolada gorzka;21.78;93
+Maslo;54.37;100
+Cukier;26.08;9
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;54.27;58
+Jogurt naturalny;38.26
+Maslo;65.57;55
+Oliwa z oliwek;4.16;104
+Kasza;54.03;154
+Figi;9.86;149
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;60.21;139
+Kawa;58.55;106
+Mleko;82.51;127
+Oliwa z oliwek;26.32;74
+Ryz basmati;87.82;112
+Makaron pelnoziarnisty;7.82;83
+Olej;84.62;91
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;78.22;45
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;50.55;184
+Oliwa z oliwek;33.92;23;promocja
+Herbata;0.74;52
+Chleb;;18
+Groch;11.41;130
+Makaron pelnoziarnisty;60.55;90
+  Chleb razowy ; 55.51 ; 27 
+Mak;15.65;21
+Kasza;74.13;3
+Oliwa z oliwek;84.11;165
+Ryz
+Herbata;11.53;39
+Ser;72.89;87
+Figi;66.40;38
+Sol;2.92;90
+Bulki grahamki;52.29;66
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;1.57;54
+Herbata zielona;22.45;170
+Kawa;1.38;161
+Musztarda sarepska;6.38;36
+Kawa;61.89;158
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;89.00;71
+Olej;56.38;130
+Bob;39.19;152
+Makaron pelnoziarnisty;21.86;39
+Kawa ziarnista;69.24;39
+Jogurt naturalny;16.74;61
+Pomidory krojone;61.77;99
+Musztarda sarepska;61.41;135
+Ryz;62.90;93
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;16.85;127
+Chleb;69.73;150
+Ser;7.71;12
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;78.78;34
+Olej;87.28;199
+Ryz;45.99;28
+Herbata zielona;8.15;26;promocja
+Dzem;65.03;97
+Kawa;13.01;55
+Kawa;18.61;5
+Ser;9.12;101
+Bob;3.13;158
+Miod
+Cukier;9.46;31
+Papryka czerwona;44.07;44
+Jogurt naturalny;25.74
+Mak;18.47;37
+Bulki grahamki;82.01;161
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;22.86;15
+Mleko;;19
+Miod;75.38;95
+Maka;7.15;102
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;50.41;159
+Maka;67.69;49
+Cukier;51.26;138
+Maka;78.41;170
+Woda;77.32;155
+Oliwa z oliwek;22.49;179
+
+Oliwa z oliwek;10.07;82
+Groch;2.00;159
+Papryka czerwona;86.68;54
+Chleb;49.02;161
+Platki owsiane;15.27
+Miod;34.37;43
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;23.81;190
+Dzem
+Pomidory krojone;33.67;35;promocja
+Ser zolty gouda;26.03;52
+Maslo;60.20;3
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;16.00;105
+Kawa;0.82;56
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;59.17;35
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;58.30;169
+Sol;58.89;109
+Ser zolty gouda;82.43;93
+Platki owsiane;67.79;147
+Maka
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;22.99;185
+Mleko;11.30;172
+Kasza;68.77;134
+Maka;6.93;57
+  Serek wiejski ; 78.91 ; 105 
+Chleb razowy;24.61;38
+Ser;63.62;40
+Oliwa z oliwek;36.28;165
+Woda;54.88;81
+Mleko;61.92;198
+Platki owsiane;84.28;170
+Ryz;69.03;157
+Miod;63.23;109
+Szynka drobiowa;42.58;149
+Mleko;78.56;25
+Sok pomaranczowy;24.08;102
+Ser;35.53;106
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;17.81;118
+Miod;68.21;61
+Ser;12.62;kilka
+Jogurt naturalny;71.53;99
+Makaron pelnoziarnisty;46.16;164
+Pomidory krojone;3.36
+Ser;52.36;157
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;73.79;45
+Bob;40.89;156
+Chleb razowy;4.46;40;promocja
+Kawa ziarnista;2.45
+Parowki cielece;85.62;167
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;45.59;73
+Parowki cielece;4.53;145
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;2.22;71
+Cukier
+Jogurt naturalny;60.14;108
+Ryz;53.27;187
+Musztarda sarepska;26.64
+Musztarda sarepska;6.70
+Figi;57.44;157
+Ser
+Pomidory krojone;34.12;14
+Ryz basmati;42.08;76
+Groch;80.57;6
+Papryka czerwona;66.35;128
+Kasza gryczana;52.95;152
+Woda;1.91;181
+Chleb;20.11;55
+Groch;19.12;178
+Platki sniadaniowe wieloziarniste z orzechami i miodem;19.49;4
+Dzem;28.76;53
+  Figi ; 49.82 ; 147 
+Mleko;88.54;113
+Oliwa z oliwek;10.87;40
+Ketchup lagodny;26.20;103
+Kawa ziarnista;19.76;27
+Herbata;59.15;22
+Kawa;55.95;148
+Parowki cielece;70.56;159
+Kasza gryczana;65.69;48
+
+Chleb razowy;46.69;119
+Figi;61.07;146
+Kawa ziarnista;19.18;147
+Pomidory krojone;16.89;40
+Szynka drobiowa;78.74;14
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;17.29;131
+Figi;82.46;7
+Woda;38.27;119
+Kasza;83.11;23
+Jajka;16.17;107
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;59.41;152
+Papryka czerwona;32.84;146
+Groch;14.61;173
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;20.72;138
+Ryz;23.61;81
+Woda;25.45;129
+Mak
+Ketchup lagodny;4.17
+Bulki grahamki;20.88;96
+Groch;52.27;30
+Miod;52.68;51
+Bob;47.82;32
+Bob;71.07;40
+  Sok pomaranczowy ; 74.34 ; 71 
+Bob;72.99;60
+Czekolada gorzka;84.66;148
+Jajka;11.74;51
+Platki owsiane;43.44;44
+  Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg ; 11.76 ; 173 
+Chleb razowy;33.40;148
+Sol;69.05;37
+Herbata;29.98;kilka
+Jogurt naturalny;76.85;161
+  Kasza ; 49.46 ; 135 
+Serek wiejski;8.35
+
+Mak;62.06;26
+Chleb;18.57;121
+Sok pomaranczowy;35.23
+Pomidory krojone;32.77
+Czekolada gorzka;15.57;145
+Kawa;45.69;51
+Papryka czerwona;61.92;51
+Kasza;85.52;192
+Ketchup lagodny;58.76;32
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;3.65;164
+Maslo;84.82;180
+Sol;49.05;170
+Kasza;30.83;190
+Ser;52.91;125
+Oliwa z oliwek;86.67;11
+Jogurt naturalny;57.15;14
+Chleb razowy;20.86;13
+Woda;22.15;41
+Maka;7.34;40
+Maka;75.07;12
+Serek wiejski;21.42;26;promocja
+Groch;57.58;198
+Ryz;43.07;187
+Platki sniadaniowe wieloziarniste z orzechami i miodem;0.65;91
+Bob;;12
+Herbata;78.00;148
+Dzem;24.93;1
+Bulki grahamki;17.38;74
+Sol;25.98;32
+Maslo;2.64;174
+Mak;40.12;169
+Oliwa z oliwek;33.33;87
+Mleko;26.17;146
+Chleb;11.10;133
+Woda;87.68;40
+Bob;;9
+  Ryz basmati ; 32.00 ; 161 
+Czekolada gorzka;86.68;61
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;86.96;113
+Mak
+Pomidory krojone;29.40
+Serek wiejski;12.35;156
+Ketchup lagodny;drogo;1
+Sol;68.08;58
+Papryka czerwona;0.68;196
+Ryz;7.27;26
+Sol;9.56;81
+Parowki cielece;34.25;107
+Maslo;78.93;73
+Papryka czerwona;57.07;113
+Kasza gryczana;14.58
+Jajka;38.17;66
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;25.31;75
+Bob;18.15;81
+Ryz basmati;44.62;73
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;26.61;84
+Figi;17.31;92
+Maslo;49.32;5
+Jajka;8.20;10
+Pomidory krojone;40.09;131
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;6.82;200
+Dzem;28.23;129
+Ryz basmati;24.18;124
+Parowki cielece;87.08;135
+Bulki grahamki;55.26;65
+Mak;86.21;80
+Kawa;31.52;88
+Czekolada gorzka;10.06;29
+Ketchup lagodny;80.64;179
+Makaron pelnoziarnisty;23.32;155
+Kawa ziarnista;43.84;42
+Miod;22.52;96
+Olej;11.52;97
+Serek wiejski;8.16
+Czekolada gorzka;36.72;69
+Jogurt naturalny;31.35;62
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;41.39;41
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;9.81;123
+Sok pomaranczowy;49.82;3
+  Czekolada gorzka ; 37.78 ; 132 
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;56.28;195
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;14.50;158
+Musztarda sarepska;8.22;72
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;3.74;172
+Sol;82.87;134
+Pomidory krojone;2.94;169
+Kasza;28.80;124
+Woda;19.84;24
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;6.22;196
+Ryz basmati;68.99;51
+Figi;38.14;178
+Dzem;9.13;169
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;81.10;170
+Ryz basmati;36.64;83
+Pomidory krojone;40.76;115
+Jajka;43.62;100
+Ketchup lagodny;39.36;86
+Herbata;84.45;168
+Maslo;32.81;134
+Parowki cielece;9.88;149
+Kasza gryczana;6.29;155
+Sok pomaranczowy;44.30;188
+Oliwa z oliwek;35.73;174
+Herbata;73.76;27
+Pomidory krojone;32.22;110
+  Olej ; 56.89 ; 84 
+Kasza;53.32;151
+Papryka czerwona;2.36
+Jajka;29.26;167
+Mak;42.08;69
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;65.33;108
+Oliwa z oliwek;11.83;131
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;88.94;164
+Parowki cielece;52.86;84
+Ryz basmati;23.08;85
+Mleko;21.11;106
+Pomidory krojone;19.50
+Sok pomaranczowy;19.21;88
+Bob
+Pomidory krojone;drogo;12
+Ryz basmati;38.15;108
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;70.54;79
+Jogurt naturalny;20.69;160
+Ser;1.04;87
+Herbata;23.94;155
+Bulki grahamki;88.89;183
+Musztarda sarepska;78.73;100
+Kawa;40.81;96
+Dzem;75.66;180
+Makaron pelnoziarnisty;23.59;56
+Ketchup lagodny;87.37;103
+Herbata;40.83;167
+Miod;40.71;81
+Pomidory krojone;34.49
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;77.65;108
+Groch;48.60;56
+  Organiczna maka orkiszowa pelnoziarnista paczka 1kg ; 57.21 ; 13 
+Platki owsiane;85.61;39
+  Makaron pelnoziarnisty ; 83.94 ; 162 
+Pomidory krojone;7.08;154
+Dzem;82.57;6
+Herbata zielona;77.73;41
+Groch;;10
+Ketchup lagodny;51.79;47
+Czekolada gorzka;12.84;6
+Musztarda sarepska;24.42;149
+Kawa;12.47;34
+Musztarda sarepska;drogo;19
+Woda;11.10;kilka
+Kawa
+Dzem;49.68;148
+Ketchup lagodny;45.91;34
+Musztarda sarepska;88.73;138
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;15.19;154
+  Maka ; 49.91 ; 140 
+Chleb razowy;21.43;162
+Cukier;57.42;194
+Maka;49.21;27
+Sok pomaranczowy;5.71;18
+Mleko;60.75;84
+Bob;74.34;90
+Chleb;2.76;196
+  Bob ; 75.59 ; 31 
+Figi;76.73;71
+Sok pomaranczowy;19.12;149
+Mleko;77.33;166
+Cukier;78.00;148
+Bob;;11
+
+Ryz basmati;50.61;70
+Jajka;74.52;143
+Woda;87.76;5
+Platki sniadaniowe wieloziarniste z orzechami i miodem;50.14;147
+Kawa;21.25;49
+Platki sniadaniowe wieloziarniste z orzechami i miodem;64.66;30
+Maka;81.42;39
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;36.81;112
+Papryka czerwona;7.94;50
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;82.14;9
+Ketchup lagodny;4.94
+Chleb razowy;68.17;55
+Ketchup lagodny;50.58;55
+Makaron pelnoziarnisty;29.00;108
+Kawa;19.01;162
+Kawa;75.78;37
+Maslo
+Pomidory krojone;37.35;27;promocja
+Bulki grahamki;75.08;174
+
+Maslo;71.23;164
+Oliwa z oliwek;27.39;185
+Kawa ziarnista;35.18;75
+Cukier;13.66;100
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;75.97;176
+Chleb razowy;27.45;18
+
+  Czekolada gorzka 70 procent kakao z migdalami tabliczka ; 11.92 ; 2 
+Dzem;82.71;85
+  Mak ; 53.52 ; 51 
+Czekolada gorzka;8.49;196
+Chleb razowy;59.95;168
+Ryz basmati;17.32;119
+Herbata zielona;53.27;10
+
+Kawa;23.58;127
+Cukier
+  Kasza ; 88.36 ; 19 
+Jogurt naturalny;50.20;20
+
+  Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg ; 49.79 ; 114 
+Chleb razowy;50.68;1
+Dzem;11.65;191
+Chleb razowy;47.17;98
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;23.13;84
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;8.96;95
+Chleb razowy;34.23;34
+Herbata;72.56;137
+Figi;28.30;51
+Sol;3.89;kilka
+Platki owsiane;60.67;2
+Kawa;77.89;156
+Oliwa z oliwek;33.10;10
+Mleko;40.94;44
+Dzem;19.15;190
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;59.47;30
+Jajka;64.79;144
+Herbata zielona;42.64;74
+Kawa;;26
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;67.29;150
+Woda;50.64;56
+Kawa;29.01;56
+Mak;60.68;9
+Kawa ziarnista;10.07;125
+Mak;30.66;183
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;38.06;61
+Olej;80.41;175
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;47.36;155
+Ryz;65.02;12
+Jajka;57.59;40
+Serek wiejski;4.38;35
+Bulki grahamki;55.28;114
+Maka;39.57;107
+Maka;11.65;177
+Makaron pelnoziarnisty;17.75
+Pomidory krojone;56.89;51
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;11.95;92
+Sol;49.19;94
+Sol;19.81;52
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;59.67;172
+Pomidory krojone;7.91;115
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;83.94;143
+Chleb razowy;56.58;167
+Oliwa z oliwek;53.16;54
+Olej;5.63;12
+Bulki grahamki;48.26;39
+Platki owsiane;48.52;195
+Ryz basmati;drogo;20
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;67.67;173
+Ser;35.45;84
+Dzem;23.34;38
+Jogurt naturalny;36.54;119
+Szynka drobiowa;81.76;2
+Maka
+Mleko;60.07;194
+Sok pomaranczowy;48.25;99
+Papryka czerwona;28.92;172
+Sol;59.47;91
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;82.75;132
+Ryz;69.62;56
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;15.70;140
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;12.02;105
+Mleko;27.32;kilka
+Herbata zielona;drogo;7
+Herbata zielona;33.66;8
+Makaron pelnoziarnisty;38.94;40;promocja
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;87.33;99
+Platki owsiane;84.55;120
+Kawa;73.59;1
+Jogurt naturalny;44.60;114
+
+  Ketchup lagodny ; 82.01 ; 137 
+Ser zolty gouda;27.66;45
+Ser zolty gouda;17.70
+Pomidory krojone;82.09;51
+Parowki cielece;56.43;171
+  Groch ; 81.18 ; 25 
+Oliwa z oliwek;22.03
+Mleko;86.73;140
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;67.75;186
+Groch;34.71;169
+Herbata;45.75;33
+Jogurt naturalny;44.64;66
+Olej;59.11;59
+Bob;43.40;11
+  Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg ; 58.98 ; 67 
+Papryka czerwona;24.66;17;promocja
+  Papryka czerwona ; 77.76 ; 53 
+Papryka czerwona;56.88;149
+Bob;26.60;112
+Serek wiejski;52.17;31
+Groch;54.70;175
+Mak;20.37;172
+Ryz;52.20;64
+Kasza;10.78;7
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;27.93;127
+Bob;54.95;177
+Kasza gryczana;54.25;57
+Szynka drobiowa;13.58;130
+  Ser ; 32.48 ; 187 
+Ser zolty gouda;45.40;28
+Chleb;61.25;17
+Platki sniadaniowe wieloziarniste z orzechami i miodem;38.84;177
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;52.54;7
+Papryka czerwona;60.65;75
+Ser zolty gouda;36.43
+Pomidory krojone;88.14;81
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;39.73;24
+Ryz basmati;21.13;37;promocja
+Pomidory krojone;24.91;168
+Kawa ziarnista;55.66;178
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;74.82;107
+Ryz;37.07;160
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;34.86;170
+  Mleko ; 4.22 ; 141 
+Jajka;75.54;121
+Maka;;14
+Platki sniadaniowe wieloziarniste z orzechami i miodem;40.18;16
+Groch;0.75;67
+
+Figi;6.73;64
+  Serek wiejski ; 14.38 ; 33 
+Parowki cielece;70.34;14
+Herbata;9.19;106
+Parowki cielece;71.00;61
+Ryz basmati;50.74;166
+Chleb;86.70;63
+  Jogurt naturalny ; 82.96 ; 37 
+
+Pomidory krojone;40.34;91
+Oliwa z oliwek;66.18;140
+Szynka drobiowa;20.76;188
+Szynka drobiowa;24.14;3
+Bulki grahamki;88.34;112
+Bob
+Musztarda sarepska;25.14
+Chleb razowy;22.28;50
+  Herbata zielona ; 27.21 ; 99 
+Sol;20.53;91
+Figi;;18
+Jajka;49.34;69
+Papryka czerwona;25.47;37;promocja
+Miod;14.76;54
+Kasza gryczana;37.03;81
+Herbata zielona;drogo;4
+Mak;65.90;25
+Cukier;50.76;66
+Bob;68.70;169
+Sok pomaranczowy;38.85
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;12.61;127
+Herbata
+Oliwa z oliwek;80.46;4
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;20.95;61
+Groch;10.51;kilka
+Woda;65.05;96
+Woda;35.19;96
+Woda;38.17;197
+Makaron pelnoziarnisty;74.69;109
+Papryka czerwona;55.48;51
+Herbata zielona;22.97;31;promocja
+Olej;38.11;189
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;86.15;158
+Maka;89.16;15
+Groch
+Kawa ziarnista;56.49;94
+Ryz;16.58;24
+Miod;69.68;98
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;66.27;157
+Herbata zielona;50.28;46
+Papryka czerwona;33.64;161
+Ryz basmati;11.30;110
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;10.01;33
+Kasza;62.17;159
+Sol;61.87;83
+Bulki grahamki;30.06;21;promocja
+Chleb;26.97;54
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;50.81;155
+Papryka czerwona;83.30;107
+Herbata;54.02;184
+Szynka drobiowa;7.12;60
+Oliwa z oliwek;55.30;60
+Olej;22.69;112
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;67.63;8
+Ryz basmati;49.71;7
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;23.44;22
+Mleko;69.25;123
+Figi;;24
+Chleb razowy;14.99;155
+Szynka drobiowa;21.65;12
+Chleb razowy;66.04;159
+Kasza;2.72;57
+Bob;73.62;121
+Makaron pelnoziarnisty;64.46;28
+Serek wiejski;43.94;42
+Jajka;55.66;66
+Maka;79.14;153
+Maslo;23.14;78
+Maslo;61.73;85
+Czekolada gorzka;3.11
+Makaron pelnoziarnisty;35.06;190
+Cukier;3.01;32
+Woda;69.88;148
+Ser zolty gouda;39.50;125
+Chleb;71.23;58
+Herbata;38.51;83
+Herbata zielona;40.96;110
+Szynka drobiowa;89.72;143
+Maslo;32.90;48
+Bob;81.81;51
+Oliwa z oliwek;81.81;192
+Ryz basmati;21.72;68
+Bob;83.26;196
+Papryka czerwona;83.25;123
+Kawa;42.93;33
+Szynka drobiowa;6.63;148
+Kasza;;3
+Ser zolty gouda;77.78;188
+Olej;27.90;125
+  Herbata ; 19.01 ; 67 
+Makaron pelnoziarnisty;67.01;64
+Oliwa z oliwek;40.90;186
+Pomidory krojone;33.31;108
+Herbata;80.91;54
+
+Cukier
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;1.06;145
+  Ryz ; 24.49 ; 13 
+Pomidory krojone;80.87;80
+Platki owsiane;87.81;179
+Ketchup lagodny;72.14;96
+Chleb razowy;23.75;54
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;75.30;43
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;6.86;14
+Ryz;80.65;10
+Figi;46.98;180
+Oliwa z oliwek;13.07;84
+Ryz;74.27;90
+Maslo;44.28;13
+Maka;17.29;116
+Kasza gryczana;6.04
+Herbata zielona;89.23;140
+Maka;63.01;70
+Parowki cielece;51.77;16
+Bulki grahamki;42.03;152
+Kasza;79.96;6
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;76.77;55
+Maka;56.14;19
+Kasza;41.98;161
+Mleko;25.41;2
+Mak;89.04;107
+  Papryka czerwona ; 74.47 ; 110 
+Ser
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;23.90;75
+Olej;61.66;186
+Woda;53.87;143
+Maka;39.34;146
+Pomidory krojone;15.39;61
+Szynka drobiowa;20.51;3
+Czekolada gorzka;39.01;175
+Papryka czerwona;6.85;162
+Kawa;36.35;82
+Platki owsiane;21.82;11
+Mleko;4.05;140
+
+Olej;88.74;70
+Kawa ziarnista;34.09
+Ser zolty gouda;85.38;167
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;25.53;128
+
+Cukier;55.02;131
+Groch;14.52;79
+Woda;37.21;81
+Figi;67.00;1
+Figi;19.66;49
+Pomidory krojone;52.90;26
+Ser zolty gouda;27.15;144
+Chleb razowy;58.92;34
+Dzem;85.83;87
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;5.17;157
+Chleb;72.88;142
+Maka;30.26;19
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;31.99;191
+Kawa;79.15;48
+Musztarda sarepska;64.08;83
+  Woda ; 18.77 ; 143 
+Herbata zielona;drogo;1
+  Woda ; 6.79 ; 85 
+Jogurt naturalny;46.94;97
+Figi;79.93;183
+
+Jajka;11.84;160
+Czekolada gorzka;24.04;89
+Ketchup lagodny;57.33;122
+Maka;30.07;44
+Kawa;65.13;173
+  Oliwa z oliwek extra vergine tloczona na zimno 500ml ; 28.83 ; 93 
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;83.79;125
+Mak
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;32.84;194
+Maka;65.67;155
+Papryka czerwona;18.08
+Ryz;69.27;17
+
+Kasza;31.74;81
+Maslo;63.00;55
+Chleb razowy;68.41;38
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;47.47;195
+Ser;19.11;196
+Jogurt naturalny;22.11;169
+
+Kawa ziarnista;4.90;197
+  Papryka czerwona ; 28.49 ; 119 
+Kasza;36.65;181
+
+Ser zolty gouda;73.51;104
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;45.61;41
+Woda;58.66;173
+Ketchup lagodny;11.69;18
+Ser zolty gouda;6.54;20;promocja
+Ryz basmati;15.99;71
+Miod;26.72;125
+  Serek wiejski light o obnizonej zawartosci tluszczu 200g ; 20.85 ; 34 
+Jajka;84.53;45
+Parowki cielece;54.70;158
+Musztarda sarepska;36.55;136
+Chleb;40.18;43
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;29.30;91
+Groch;59.35;171
+Kasza gryczana;30.86
+Maka
+Herbata;38.76;181
+Chleb;3.26;kilka
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;71.52;43
+Czekolada gorzka;50.05;73
+Szynka drobiowa;6.28;135
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;25.17;177
+Chleb;45.73;130
+Serek wiejski;12.59;134
+  Miod ; 42.44 ; 6 
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;69.29;197
+Figi;58.22;183
+Kasza;87.31;19
+Cukier;55.62;5
+Woda;42.41;95
+Herbata zielona;64.67;124
+Miod;16.59;194
+Serek wiejski;65.21;168
+Oliwa z oliwek;72.15;28
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;81.90;37
+Ryz;60.87;155
+Kawa;43.32;12
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;46.92;84
+Ser zolty gouda;38.85;134
+Ser zolty gouda;83.08;41
+Miod;10.80;172
+Platki owsiane;drogo;19
+Kawa ziarnista;15.76;54
+Herbata;51.23;191
+Kasza gryczana;26.61;31;promocja
+Pomidory krojone;36.51;160
+Sol;82.12;105
+Kawa
+Herbata zielona;37.60;96
+Miod;79.01;78
+Platki owsiane;67.13;72
+Woda;64.95;59
+Ser zolty gouda;8.64;106
+Jajka;39.98;139
+  Oliwa z oliwek ; 36.06 ; 86 
+Serek wiejski;14.31;151
+Olej;82.32;38
+  Jogurt naturalny ; 41.70 ; 91 
+Olej;41.32;101
+Maslo;59.40;2
+Groch;68.20;84
+Kasza gryczana;70.98;136
+Sol;55.75;131
+Groch;61.94;24
+Chleb razowy;57.91;187
+Ryz basmati;55.70;2
+Bob;33.32;141
+Ketchup lagodny;14.43;145
+Platki sniadaniowe wieloziarniste z orzechami i miodem;68.67;180
+Maka;64.48;127
+Ryz
+Ryz;85.81;194
+Bob;88.01;2
+Papryka czerwona;79.50;17
+Herbata zielona;12.57;18
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;72.42;43
+Maslo;63.78;87
+Maka;54.49;151
+  Oliwa z oliwek extra vergine tloczona na zimno 500ml ; 3.55 ; 156 
+Sol;29.80;109
+Chleb;1.24;79
+Maslo;85.26;57
+Platki owsiane;drogo;5
+Miod;;16
+Makaron pelnoziarnisty;10.48;50
+Bob;28.77;81
+Dzem;26.82;197
+Szynka drobiowa;8.26;108
+Pomidory krojone;19.14
+Musztarda sarepska;39.70;3
+Bulki grahamki;89.86;87
+Jajka;24.68;18
+Jogurt naturalny;35.12;175
+Dzem;2.77;104
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;59.22;47
+Papryka czerwona;15.03;9
+Kawa ziarnista;37.19;21
+
+Jajka;3.04;54
+Parowki cielece;85.75;48
+Maslo;28.61;119
+  Platki owsiane ; 33.07 ; 54 
+Olej;16.46;183
+Jajka;45.81;198
+Dzem;2.71;9
+Ketchup lagodny;41.78;183
+Czekolada gorzka;21.15;36
+Ryz basmati;84.58;14
+Kawa;80.45;101
+Pomidory krojone;50.75;166
+Musztarda sarepska;82.80;138
+Chleb razowy;79.68;118
+Ryz basmati;60.30;118
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;76.31;95
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;46.33;91
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;46.49;102
+  Bob ; 71.53 ; 51 
+Maka;0.91;116
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;37.21;118
+Oliwa z oliwek;1.32;47
+Olej;14.16;168
+Serek wiejski;3.69;53
+Chleb razowy;60.94;154
+Maslo;42.80;124
+Ser zolty gouda;26.62
+Chleb;13.91;55
+Herbata;39.20;74
+Miod;67.45;91
+Musztarda sarepska;72.00;90
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;59.04;194
+Mak;79.40;67
+Herbata zielona;55.21;114
+Musztarda sarepska;42.21;183
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;37.73;25
+Mleko;57.44;171
+Cukier;88.97;24
+Serek wiejski;15.03;5
+Sol;21.73;192
+Miod;55.18;165
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;13.05;38
+Chleb;48.23;157
+Ryz;11.80;190
+Platki sniadaniowe wieloziarniste z orzechami i miodem;87.93;21
+Czekolada gorzka;87.76;185
+Szynka drobiowa;65.39;171
+Kawa;57.49;103
+
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;26.59;96
+Serek wiejski;21.22;32;promocja
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;36.04;147
+Jogurt naturalny;31.55;93
+Jogurt naturalny;51.34;107
+Herbata;43.20;183
+Bob;88.03;179
+Oliwa z oliwek;52.51;32
+
+  Bob ; 2.98 ; 8 
+Dzem;4.13;31
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;61.34;29
+Herbata zielona;32.83;8;promocja
+Cukier;36.89;191
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;60.91;184
+Platki owsiane;10.40;85
+Ser zolty gouda;58.55;165
+Sok pomaranczowy;77.17;31
+Platki owsiane;27.73;26
+Ser zolty gouda;66.79;57
+Jajka;65.54;190
+Platki sniadaniowe wieloziarniste z orzechami i miodem;16.26;128
+Czekolada gorzka;89.71;19
+Parowki cielece;65.41;183
+Kasza gryczana;78.99;103
+Serek wiejski;14.42;26
+Ser zolty gouda;43.06;78
+Makaron pelnoziarnisty;32.16;98
+Platki owsiane;74.30;159
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;68.75;192
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;41.44;115
+Kasza
+Herbata;27.79;kilka
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;37.27;110
+Oliwa z oliwek;26.55;55
+Jajka
+  Oliwa z oliwek extra vergine tloczona na zimno 500ml ; 5.97 ; 99 
+Kawa;26.58;kilka
+Czekolada gorzka;50.12;80
+Kawa;19.42;10
+Kawa ziarnista;82.72;142
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;80.78;19
+Kawa ziarnista;11.66;148
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;51.41;96
+Oliwa z oliwek;15.17;13
+Kawa
+Ryz;33.85;117
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;68.41;197
+Czekolada gorzka;73.22;41
+Makaron pelnoziarnisty;79.22;77
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;32.54;123
+Oliwa z oliwek;29.84;85
+Chleb razowy;47.61;183
+Olej;7.19;23
+Miod;19.50;79
+Czekolada gorzka;71.80;55
+Herbata zielona;31.41;47
+Ketchup lagodny;1.35;139
+Maslo;54.07;31
+Figi;47.69;44
+Mak;7.93;21
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;57.73;106
+Oliwa z oliwek;88.71;124
+Herbata zielona;drogo;9
+Szynka drobiowa;1.51;17
+Olej;13.44;126
+Maka;49.54;93
+Kasza gryczana;66.11;34
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;8.91;10
+Maslo;62.71;47
+  Mleko ; 22.65 ; 148 
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;52.70;66
+Kasza;19.66;181
+Cukier;53.70;195
+Serek wiejski;38.75;81
+Szynka drobiowa;42.17;34
+Kawa ziarnista;1.77;197
+Cukier;45.53;177
+Bulki grahamki;18.85;9
+Makaron pelnoziarnisty;60.23;25
+
+Miod;43.35;9
+Chleb;75.49;165
+Pomidory krojone;45.42;61
+Herbata;63.04;116
+Olej;54.16;118
+Groch;61.66;68
+Figi;;21
+Groch;39.15;90
+Woda;28.72;146
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;80.28;42
+Ser zolty gouda;26.85;86
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;0.98;183
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;25.58;106
+Oliwa z oliwek;9.95;8
+Sol;82.90;68
+Chleb;25.14;118
+Kasza gryczana;18.12;180
+Cukier;33.05;188
+Oliwa z oliwek;61.11;105
+Ser;26.12;85
+Oliwa z oliwek;50.42;121
+Chleb razowy;46.03;119
+Miod;53.43;93
+Kawa;50.77;122
+Czekolada gorzka;71.18;60
+Ryz basmati;47.60;148
+Kasza;55.67;172
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;57.28;109
+  Bulki grahamki ; 1.24 ; 65 
+Olej;0.73;16
+Sol;89.29;9
+Platki owsiane;47.26;33
+Herbata;18.30;47
+Musztarda sarepska;6.54;49
+Figi;51.46;170
+Bob;89.24;31
+Olej;32.77;107
+Ketchup lagodny;15.11;38
+Herbata zielona;18.88
+Miod;20.92;87
+Makaron pelnoziarnisty;15.94;15;promocja
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;59.46;99
+Ser;64.82;17
+Mak;18.42;147
+  Makaron pelnoziarnisty ; 43.02 ; 20 
+Bulki grahamki;2.43;183
+Woda;40.37;77
+Ketchup lagodny;34.60;163
+Dzem;31.74;93
+Woda;79.10;147
+Ryz basmati;40.34;53
+Chleb;49.09;175
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;49.39;22
+Sol;36.33;138
+Ryz;61.58;174
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;59.09;123
+Platki sniadaniowe wieloziarniste z orzechami i miodem;66.13;156
+Bulki grahamki;11.20;56
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;20.76;160
+Jajka;65.65;65
+Figi;81.80;56
+Figi;15.46;143
+Mleko
+Bulki grahamki;23.32;113
+Ser
+  Maka ; 45.88 ; 78 
+Dzem;79.52;34
+Woda;44.02;166
+Dzem;83.45;97
+Figi;9.21;54
+Olej
+Figi;61.60;127
+Olej;44.08;175
+Groch;31.70;31
+Czekolada gorzka;85.36;30
+Chleb
+Pomidory krojone;30.90;91
+Jogurt naturalny;41.42;68
+Woda;45.44;4
+Groch
+Maslo;29.76;48
+Kasza gryczana;0.99;177
+Sok pomaranczowy;15.95
+Woda;1.40;57
+Serek wiejski;21.01;42
+Jajka;54.18;37
+Mak;35.81;182
+  Kasza ; 53.99 ; 38 
+Mleko;24.48;7
+Bob;75.82;172
+Woda
+Pomidory krojone;29.27;129
+Herbata zielona;69.63;43
+Platki sniadaniowe wieloziarniste z orzechami i miodem;21.37;111
+  Kasza gryczana ; 32.26 ; 28 
+Figi;5.71;54
+Maslo;12.51;144
+Platki owsiane;37.70;11;promocja
+Makaron pelnoziarnisty;2.63
+Platki sniadaniowe wieloziarniste z orzechami i miodem;10.52;150
+Czekolada gorzka;88.16;179
+Chleb razowy;42.63;166
+Kawa;6.71;79
+  Kasza ; 51.19 ; 16 
+  Sol ; 80.35 ; 132 
+Bob
+Mak
+Musztarda sarepska;23.69;149
+Kawa
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;37.28;17
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;12.34;22
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;47.99;57
+Platki owsiane;89.49;181
+Ryz basmati;37.18;4;promocja
+
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;33.65;23
+Kasza;31.16;170
+Olej;54.98;149
+Mleko
+Bulki grahamki;35.15;182
+Platki sniadaniowe wieloziarniste z orzechami i miodem;56.81;132
+Papryka czerwona;35.85;79
+Miod;84.10;38
+Jogurt naturalny;7.21;66
+Herbata;4.25;14
+Jajka
+  Platki owsiane ; 88.07 ; 74 
+Bulki grahamki;40.94;1
+Serek wiejski;26.23;7
+Kasza gryczana;5.22;8
+Czekolada gorzka;38.76;151
+Mak;11.77;14
+Ser;75.15;13
+Musztarda sarepska;85.23;88
+Oliwa z oliwek;33.12;179
+Papryka czerwona;17.85;60
+Figi;53.46;95
+Cukier;81.71;190
+Bulki grahamki;31.21;38
+Bulki grahamki;17.05;34
+Sok pomaranczowy;22.74;6
+Sol;28.98;189
+Szynka drobiowa;29.27;173
+Sok pomaranczowy;22.35;76
+Kasza gryczana;53.02;20
+Mleko
+Olej;36.42;125
+Maka;62.83;94
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;86.76;102
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;79.19;19
+Cukier
+Oliwa z oliwek;25.15;107
+Ser;61.89;108
+Maka;56.21;159
+Maslo;21.69;29
+  Sol ; 4.05 ; 104 
+Olej
+Kawa;4.43;10
+Ketchup lagodny;44.70;3
+Platki sniadaniowe wieloziarniste z orzechami i miodem;79.01;101
+Makaron pelnoziarnisty;27.07
+Cukier;26.78;188
+Szynka drobiowa;78.15;171
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;5.37;184
+Pomidory krojone;4.61;72
+Chleb
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;8.54;109
+  Oliwa z oliwek extra vergine tloczona na zimno 500ml ; 58.59 ; 63 
+Ser;58.65;21
+Miod;18.80;59
+Jogurt naturalny;0.89;12
+  Makaron pelnoziarnisty penne z maki durum opakowanie 500g ; 60.74 ; 113 
+Kasza;10.45;55
+Kawa;74.04;112
+Maslo;86.68;119
+Sok pomaranczowy;81.99;37
+Olej;68.41;135
+Bulki grahamki;87.26;187
+Figi;59.73;137
+Serek wiejski;drogo;19
+Sok pomaranczowy;82.41;116
+Jajka;50.77;173
+Bob;;1
+Miod
+Kawa ziarnista;39.11;55
+Maslo;81.85;55
+Mleko;2.93;8
+Woda;3.80;112
+Oliwa z oliwek;59.10;133
+Serek wiejski;74.93;75
+Sok pomaranczowy;30.21;189
+  Ketchup lagodny ; 57.39 ; 133 
+Jajka;75.91;193
+Musztarda sarepska;33.23;94
+Ser;87.26;32
+Dzem
+Platki sniadaniowe wieloziarniste z orzechami i miodem;6.49;8
+Parowki cielece;44.96;96
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;55.80;104
+Jajka
+Kawa;39.20;22
+Ryz basmati;3.25;75
+Bob;89.84;90
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;60.00;165
+Chleb;17.31;14
+Jajka;1.44;158
+Czekolada gorzka;72.78;122
+Ryz;77.93;55
+Cukier;37.60;12
+Cukier;84.77;161
+Szynka drobiowa;22.27
+Chleb;14.95;38
+
+Serek wiejski;3.46;94
+Oliwa z oliwek;60.71;144
+Serek wiejski;67.49;129
+Dzem;31.48;27
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;69.72;120
+  Ser ; 19.62 ; 72 
+Groch;6.47;146
+Groch;70.92;23
+Jajka;84.73;156
+Ketchup lagodny;70.13;54
+Kawa;87.86;187
+Makaron pelnoziarnisty;10.49;191
+Figi;80.68;91
+Olej;87.51;186
+Mak;72.08;63
+Ser zolty gouda;30.92;5
+Olej;87.02;79
+Groch;45.15;128
+Serek wiejski;6.09;22;promocja
+Czekolada gorzka;34.37;48;promocja
+Ser zolty gouda;1.91;82
+Kasza;30.00;38
+Chleb razowy;19.16;6
+Chleb;11.23;4
+Sol;87.16;61
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;18.86;40
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;54.24;26
+Kawa ziarnista;36.27
+Miod;21.79;67
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;86.51;31
+Herbata zielona;3.72
+Herbata;59.42;107
+Ketchup lagodny;19.09;149
+Papryka czerwona;32.40;9
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;9.50;146
+Maka;1.50;kilka
+Dzem
+Mleko;;12
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;43.36;63
+Miod;57.06;43
+Sok pomaranczowy;drogo;18
+Ketchup lagodny;51.00;22
+Dzem;81.35;188
+Jajka;36.11;69
+Mleko;4.63;71
+Chleb razowy;5.16;18
+Miod;3.42;19
+Herbata;40.60;37
+Bob;9.87;122
+Serek wiejski;37.94;121
+Maslo;52.25;136
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;19.13;137
+Pomidory krojone;6.36;137
+Herbata;9.53;25
+Kawa
+Musztarda sarepska;80.20;165
+Serek wiejski;25.19;195
+Ryz
+Kawa ziarnista;86.25;180
+Platki owsiane;64.82;57
+Bulki grahamki;63.10;66
+Groch;73.27;95
+Maslo;2.43;44
+
+Kawa ziarnista;53.08;151
+Serek wiejski;62.41;39
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;85.25;1
+Platki owsiane;60.38;67
+Parowki cielece;13.34
+Kawa ziarnista;33.48
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;52.61;79
+  Bob ; 39.91 ; 108 
+Cukier;24.36;50
+Kawa ziarnista;39.47;43
+Woda;49.93;30
+Jajka
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;74.54;78
+Jajka;5.44;102
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;25.35;11
+  Kasza gryczana ; 46.45 ; 155 
+Chleb razowy;73.60;50
+  Maslo ; 41.38 ; 28 
+Maslo;81.16;2
+Serek wiejski;75.02;104
+Chleb;9.97;81
+Dzem;44.88;45
+Musztarda sarepska;34.52;187
+Miod;61.02;22
+Maka;38.94;77
+Figi;83.58;45
+Musztarda sarepska;7.20;117
+Dzem;71.69;164
+Kasza gryczana;30.33;171
+Chleb razowy;66.08;20
+Ser zolty gouda;21.68;107
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;3.77;29
+Mak;87.90;6
+Miod;;21
+Mak;39.83;189
+Cukier;63.26;86
+Groch;20.30;3
+Kasza gryczana;32.73;120
+Kawa;;17
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;83.07;169
+Kasza gryczana;3.85;177
+Ser;88.30;55
+Ryz;74.32;52
+Musztarda sarepska;17.39;14;promocja
+
+Kasza;23.64;74
+Bulki grahamki;39.25;36
+  Miod ; 65.94 ; 158 
+Maka;75.39;175
+Miod;;3
+Maka;65.37;33
+Chleb;26.53;kilka
+Kasza;8.95;17
+
+Sol;70.89;171
+Szynka drobiowa;32.07
+Czekolada gorzka;28.88;88
+Groch;29.20;137
+Chleb;85.95;121
+Ketchup lagodny;54.18;15
+Dzem;61.53;90
+Ryz basmati;54.25;1
+Groch;31.14;141
+Ketchup lagodny;69.39;148
+Ryz basmati;7.39
+Woda;16.28;186
+Dzem;30.59;50
+Szynka drobiowa;7.10;120
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;21.65;139
+Kasza gryczana;3.72;170
+Szynka drobiowa;40.49;144
+Mleko;82.38;180
+Serek wiejski;32.99;98
+Maka;26.98;161
+Kawa;78.91;79
+Kawa ziarnista;57.19;109
+Platki owsiane;drogo;10
+Makaron pelnoziarnisty;66.85;110
+Mak;70.02;87
+Ser;36.38;46
+Kasza;24.52;136
+Chleb;76.56;109
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;2.90;21
+
+Musztarda sarepska;72.63;160
+Kasza;25.73;35
+Parowki cielece;47.29;194
+Makaron pelnoziarnisty;59.26;198
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;69.76;45
+Kasza;7.98;108
+Figi;13.86;77
+Platki sniadaniowe wieloziarniste z orzechami i miodem;24.67;168
+Makaron pelnoziarnisty;drogo;12
+Papryka czerwona;7.20;156
+Herbata;7.25;157
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;30.91;1
+Kasza;21.45;45
+Pomidory krojone;22.29;54
+
+Jogurt naturalny;62.82;188
+Chleb;88.31;181
+Olej;8.69;9
+Maslo;5.29;84
+Herbata;;15
+Bob;27.96;166
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;3.40;89
+Woda;5.93;199
+Oliwa z oliwek;66.08;102
+Szynka drobiowa;77.11;93
+Sok pomaranczowy;58.43;33
+Kawa;75.23;70
+Maslo;6.53;178
+  Mleko ; 32.51 ; 127 
+Ser zolty gouda;22.60
+Bulki grahamki;69.96;159
+Dzem;38.57;24
+Ryz;32.41;92
+Platki owsiane;26.84
+
+Jogurt naturalny;62.25;147
+Kasza;73.53;143
+Chleb razowy;39.54;5
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;14.17;153
+Platki owsiane;87.82;73
+  Sol ; 0.67 ; 43 
+Chleb;72.50;17
+Miod;61.62;139
+  Pomidory krojone ; 34.85 ; 159 
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;74.19;93
+Dzem
+Ser;88.08;139
+  Oliwa z oliwek extra vergine tloczona na zimno 500ml ; 26.08 ; 60 
+Woda;65.87;16
+Mleko;78.73;94
+Szynka drobiowa;53.05;199
+Maslo;;11
+Jajka;89.21;39
+Jajka;7.44;15
+Mak;75.17;149
+Pomidory krojone;41.24;41
+Jogurt naturalny;11.88;181
+
+Mak;81.52;122
+Figi;88.90;186
+Kasza gryczana;33.78;83
+Chleb;82.99;131
+Kasza gryczana;85.42;5
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;59.61;121
+Czekolada gorzka;34.65;186
+Musztarda sarepska;68.55;160
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;54.64;155
+Herbata zielona;37.21;152
+Ser;16.71;147
+Jajka;76.52;37
+Platki owsiane;18.81;37
+Maka;22.37;10
+Kawa;68.90;63
+Cukier
+Papryka czerwona;21.09;161
+Serek wiejski;68.55;81
+Platki owsiane;41.64;182
+Sol;9.43;76
+
+Sol;57.15;64
+Oliwa z oliwek;75.82;137
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;80.14;60
+Ryz;43.87;4
+Ketchup lagodny;30.69;123
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;31.96;137
+Bulki grahamki;36.95;111
+Dzem;59.56;199
+Ryz basmati;9.46;13
+Jogurt naturalny;41.20;196
+Makaron pelnoziarnisty;50.33;112
+Chleb;18.44;103
+Ryz;64.51;157
+Bulki grahamki;71.21;56
+  Makaron pelnoziarnisty ; 52.68 ; 99 
+Kawa ziarnista;32.50;67
+Chleb;76.32;175
+Dzem;28.21;97
+Dzem;35.09;56
+Szynka drobiowa;36.97;148
+Kasza gryczana;52.53;40
+Sol;35.06;9
+Chleb;74.95;100
+Woda;27.31;74
+Dzem;44.92;80
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;34.48;200
+Herbata;64.80;170
+Sol;39.09;122
+Chleb razowy;63.09;154
+Szynka drobiowa;72.01;132
+Figi;69.67;129
+Musztarda sarepska;13.94;134
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;5.25;20
+Chleb razowy;11.91;191
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;23.82;72
+Platki sniadaniowe wieloziarniste z orzechami i miodem;67.09;121
+Makaron pelnoziarnisty;30.44;127
+
+Kasza gryczana;84.91;44
+Mleko;86.52;189
+Ser;19.60;107
+Miod;61.72;24
+Bulki grahamki;63.38;124
+Herbata zielona;84.94;79
+Figi;7.01;80
+Oliwa z oliwek;5.29;33
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;76.73;151
+Jajka
+Ser;73.60;131
+Pomidory krojone;51.08;106
+Maslo;77.45;124
+Herbata;88.51;61
+Jajka;75.39;130
+Chleb razowy;51.37;130
+Kasza gryczana;66.17;97
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;79.91;64
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;73.49;188
+  Serek wiejski light o obnizonej zawartosci tluszczu 200g ; 12.89 ; 166 
+Dzem;82.94;11
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;2.40;129
+Miod;78.22;84
+Sol;68.94;194
+Maka;77.33;146
+Kasza gryczana;35.29
+Serek wiejski;82.19;6
+Makaron pelnoziarnisty;65.54;7
+Pomidory krojone;21.37;88
+Mleko;72.60;26
+Ser;52.98;136
+Woda;71.42;158
+Pomidory krojone;58.00;200
+Serek wiejski;40.55;35
+Kasza;40.52;120
+Sok pomaranczowy;57.28;58
+Chleb;42.42;47
+Bulki grahamki;73.33;125
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;12.34;11
+Sok pomaranczowy;28.71;16;promocja
+Ser zolty gouda;55.62;55
+  Cukier ; 64.93 ; 199 
+
+Szynka drobiowa;44.45;138
+Kasza;29.82;193
+Sol;13.80;194
+Chleb razowy;61.31;163
+Ser zolty gouda;15.73;16
+Cukier;11.38;28
+Miod;16.15;41
+Czekolada gorzka;18.39;183
+Herbata
+Olej;0.72;175
+Bob;42.04;169
+Woda;59.77;12
+Chleb;88.26;12
+Platki sniadaniowe wieloziarniste z orzechami i miodem;3.65;112
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;73.02;44
+Jajka
+Oliwa z oliwek;47.45;131
+Ryz basmati;39.20;140
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;89.24;163
+Dzem;27.15;78
+Parowki cielece;48.84;189
+Ryz;26.13;101
+Makaron pelnoziarnisty;12.32;110
+Miod;71.53;20
+Bob;73.46;55
+Bulki grahamki;12.76
+Kawa ziarnista;70.93;89
+Kawa;73.38;119
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;66.62;193
+Czekolada gorzka;36.78;125
+Musztarda sarepska;71.65;43
+Szynka drobiowa;66.32;112
+Jajka;85.95;62
+Bulki grahamki;52.16;107
+Woda;4.43;4
+Papryka czerwona;44.44;32
+Ryz basmati;66.43;119
+Sok pomaranczowy;82.19;132
+Kasza gryczana;21.85;16
+Sol;37.03;30
+Jajka
+Mak;54.24;13
+Herbata zielona;45.27;170
+Kasza;8.55;165
+Miod;21.18;125
+Chleb razowy;18.94;168
+Chleb
+Pomidory krojone;8.19;74
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;31.01;21
+Bob;57.52;79
+Herbata zielona;15.53;173
+Czekolada gorzka;47.21;125
+Mak;60.74;80
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;61.31;7
+Serek wiejski;37.48;14
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;68.11;194
+Bulki grahamki;12.76;190
+Bulki grahamki;80.63;180
+Ryz basmati;12.21;47
+Groch;61.90;53
+Makaron pelnoziarnisty;83.76;23
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;29.09;81
+Ser zolty gouda;34.78;102
+Makaron pelnoziarnisty;33.64;10;promocja
+Groch;7.73;52
+Oliwa z oliwek;66.59;86
+Kawa;57.23;194
+Herbata;85.50;149
+
+Musztarda sarepska;22.87;100
+Ryz;48.06;174
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;70.68;9
+Kawa ziarnista;drogo;17
+Makaron pelnoziarnisty;84.70;171
+Chleb;8.89;133
+Serek wiejski;19.35;79
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;71.50;38
+Platki sniadaniowe wieloziarniste z orzechami i miodem;4.16;7
+Szynka drobiowa;58.27;19
+Bulki grahamki;7.39;13
+Kasza gryczana;22.20;6
+Bulki grahamki;85.51;190
+Pomidory krojone;30.22;121
+Dzem;54.75;75
+Ketchup lagodny;12.08;24
+Figi;24.80;29
+Kawa ziarnista;11.06;7;promocja
+Miod;3.02;89
+Sok pomaranczowy;24.20;96
+
+Ryz;;14
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;73.64;67
+Kasza gryczana;8.00
+Kasza;34.88;200
+
+Sol;11.48;kilka
+Herbata zielona;17.51;45;promocja
+Herbata zielona;24.49;175
+Serek wiejski;71.37;117
+
+Miod;21.00;106
+Woda
+Platki owsiane;45.39;36
+Dzem;1.49;173
+Szynka drobiowa;39.69;185
+Szynka drobiowa;52.06;51
+Herbata;44.17;56
+  Chleb ; 10.52 ; 175 
+Kasza
+Chleb razowy;drogo;1
+Ryz basmati;64.33;77
+Figi;69.74;82
+Jajka;5.32;103
+Parowki cielece;87.67;179
+Ryz basmati;13.72;79
+Kasza gryczana;25.91;159
+Woda;89.97;184
+Sol;12.84;113
+Kasza;67.00;113
+Miod;30.96;200
+Bob;14.09;158
+Oliwa z oliwek;80.09;20
+Kawa ziarnista;65.80;149
+Sol;45.22;153
+Dzem
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;41.95;127
+Ryz basmati;11.05;171
+  Chleb razowy ; 30.03 ; 67 
+Chleb razowy;86.18;143
+Makaron pelnoziarnisty;86.77;8
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;54.50;114
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;38.84;125
+Ketchup lagodny;69.37;77
+Bob;60.85;193
+Pomidory krojone;19.99;197
+Makaron pelnoziarnisty;37.62;127
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;22.70;200
+Cukier;69.66;43
+Maka;79.24;123
+Platki owsiane;84.34;36
+  Miod ; 23.34 ; 195 
+Dzem
+Platki sniadaniowe wieloziarniste z orzechami i miodem;28.80;18
+Makaron pelnoziarnisty;40.35;15
+
+  Groch ; 22.82 ; 119 
+Oliwa z oliwek;8.30;191
+Maka;;21
+Sol;23.83;111
+Sok pomaranczowy;25.69;36
+Mleko;61.36;104
+Platki owsiane;20.95;167
+Woda;38.63;194
+Sol
+Ryz basmati;drogo;3
+Makaron pelnoziarnisty;43.24;163
+Jajka;42.54;184
+Sok pomaranczowy;2.53;26;promocja
+Kawa ziarnista;53.59;69
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;1.28;144
+Cukier;16.05;47
+Groch;13.05;kilka
+Bulki grahamki;59.66;23
+Ryz basmati;22.29;29
+Maka;14.19;96
+Chleb;29.59;99
+Sok pomaranczowy;40.19;47
+Bulki grahamki;63.96;120
+Maka;59.57;158
+
+Bob;33.75;109
+Maslo;17.39;189
+Woda;43.39;131
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;75.79;61
+Mak;43.88;168
+Herbata;66.42;91
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;33.06;189
+
+Platki owsiane;17.90;82
+Makaron pelnoziarnisty;4.69;156
+Pomidory krojone;0.99;177
+Oliwa z oliwek;64.31;12
+  Maslo ; 40.68 ; 105 
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;39.72;66
+Olej;80.64;6
+Kawa ziarnista;89.01;75
+Serek wiejski;43.53;89
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;87.90;92
+Olej;25.91;55
+Dzem;5.21;98
+Woda
+Oliwa z oliwek;15.58;23
+Mak;5.28;29
+Ser zolty gouda;75.48;181
+  Ser ; 3.35 ; 138 
+Groch;7.14;75
+Pomidory krojone;6.72;13;promocja
+Ser zolty gouda;29.57;129
+Parowki cielece;47.53;14
+  Makaron pelnoziarnisty penne z maki durum opakowanie 500g ; 22.57 ; 43 
+Papryka czerwona;27.10;66
+Ketchup lagodny;21.63;15
+Herbata;34.27;90
+Platki owsiane;76.73;110
+  Woda ; 11.20 ; 162 
+Sok pomaranczowy;53.42;12
+Serek wiejski;38.52;50;promocja
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;73.30;134
+Oliwa z oliwek;86.48;68
+Maka;47.89;6
+Parowki cielece;67.08;60
+Kawa;81.79;12
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;49.27;66
+Figi;6.44;136
+Makaron pelnoziarnisty;74.33;19
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;76.49;180
+  Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg ; 9.77 ; 14 
+Papryka czerwona;46.76;22
+Serek wiejski;49.20;144
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;13.11;20
+Ryz;72.69;88
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;55.83;95
+Jajka;55.42;60
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;38.23;54
+Pomidory krojone;8.81;91
+Platki owsiane;75.03;97
+Ryz basmati;10.08;29
+Ryz;31.66;35
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;43.62;152
+Parowki cielece;84.06;16
+Dzem;33.48;43
+Parowki cielece;70.70;50
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;77.19;98
+Szynka drobiowa;77.77;61
+  Oliwa z oliwek ; 84.63 ; 153 
+Groch;18.57;25
+Szynka drobiowa;31.91;66
+Ser;83.08;141
+Ser zolty gouda;41.21;12
+Dzem;65.01;109
+Ryz;71.76;172
+Maslo;65.73;152
+Miod;48.79;181
+Herbata;51.10;184
+Platki owsiane;70.22;148
+Dzem;61.85;81
+Chleb razowy;4.72;94
+Olej;21.55;174
+Ryz;85.51;13
+  Kasza ; 54.32 ; 24 
+Jajka;1.67;76
+Platki owsiane;17.84;28;promocja
+Kawa;74.16;165
+Miod;73.34;192
+Kasza gryczana;17.05;193
+Oliwa z oliwek;56.19;171
+Makaron pelnoziarnisty;49.23;53
+Olej;25.75;116
+Kasza gryczana;1.34;169
+Platki sniadaniowe wieloziarniste z orzechami i miodem;6.92;42
+Parowki cielece;77.72;179
+Ryz;66.89;78
+
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;15.77;185
+Sok pomaranczowy;64.04;96
+  Pomidory krojone ; 81.97 ; 44 
+Kasza gryczana;20.40;44;promocja
+Groch
+Kawa ziarnista;22.62;121
+Woda;73.25;103
+Herbata zielona;21.33;152
+Woda;28.32;14
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;80.00;134
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;35.22;135
+Oliwa z oliwek;81.48;68
+Ryz;79.02;195
+Musztarda sarepska;80.67;63
+Ryz basmati;9.94
+Szynka drobiowa;8.51;56
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;13.10;166
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;24.15;14
+Pomidory krojone;0.54;163
+Ser zolty gouda;22.29;75
+Oliwa z oliwek;23.87
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;6.74;60
+Chleb razowy;13.19;139
+Ser;36.06;88
+Mak;88.47;78
+Serek wiejski;74.94;64
+Ryz basmati;48.51;109
+Kawa;31.04;195
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;67.04;168
+Kawa ziarnista;62.37;196
+Ser;74.20;57
+Olej;79.75;138
+Makaron pelnoziarnisty;9.81;35
+Chleb;27.95;53
+Szynka drobiowa;7.28;55
+Jogurt naturalny;66.28;167
+Kasza;27.27;73
+Musztarda sarepska;62.44;44
+Chleb;68.34;111
+Dzem;54.61;124
+Chleb;29.52;119
+Makaron pelnoziarnisty;80.24;133
+Jajka;62.88;38
+
+Parowki cielece;15.29
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;38.65;84
+  Maslo ; 39.34 ; 120 
+Bob
+Jajka;56.61;177
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;23.17;173
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;58.17;156
+Jajka;36.36;14
+Dzem;45.30;50
+Musztarda sarepska;36.10;156
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;40.79;19
+Chleb razowy;85.16;41
+Chleb razowy;54.60;138
+Ser zolty gouda;23.47;95
+Jogurt naturalny;25.50;101
+Kawa;28.22;59
+Jajka;78.35;57
+Ryz;9.29;127
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;46.50;179
+Parowki cielece;69.52;197
+Mleko;49.18;178
+Szynka drobiowa;70.25;127
+Figi;6.70;85
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;44.08;134
+Ryz basmati;11.08;95
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;63.01;37
+Bob;83.04;62
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;20.98;134
+Ryz;41.47;29
+Herbata zielona;32.86;186
+Kawa ziarnista;50.83;47
+Jajka
+Miod;10.81;13
+Sok pomaranczowy;20.08;11;promocja
+Oliwa z oliwek;30.36;172
+Maslo;4.57;20
+Woda;83.55;155
+Kasza;25.27;185
+Sol;;30
+Papryka czerwona;79.38;53
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;28.24;177
+Olej;29.59;178
+
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;63.81;162
+Kawa;55.62;11
+Bob;34.96;142
+Ketchup lagodny;47.61;175
+Kasza;65.44;111
+Musztarda sarepska;54.86;198
+Chleb;75.93;31
+Bob;46.30;148
+  Maslo ; 35.29 ; 70 
+Oliwa z oliwek;36.59;192
+Maslo;81.55;2
+Chleb razowy;38.22
+Jajka;71.92;1
+Pomidory krojone;19.68;79
+Ser;77.43;71
+Dzem;17.29;175
+Ser;3.47;15
+Dzem;51.95;88
+  Musztarda sarepska ; 31.02 ; 8 
+Ketchup lagodny;12.00;173
+Bulki grahamki;47.48;95
+Chleb razowy;42.46;100
+Bulki grahamki;30.75;36
+Bob;79.12;117
+Mleko;;24
+Herbata zielona;drogo;18
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;22.58;198
+Bulki grahamki;64.28;65
+Kawa;19.06;60
+  Mak ; 23.93 ; 186 
+Woda;0.92;179
+Jogurt naturalny;89.22;36
+Mleko;65.47;86
+Ketchup lagodny;9.35;152
+Makaron pelnoziarnisty;52.97;2
+Bulki grahamki;27.72;41
+Ser;51.14;102
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;45.32;3
+Maslo;62.85;19
+Mleko;16.06;58
+Makaron pelnoziarnisty;27.49;143
+Ryz basmati;36.73;50
+Makaron pelnoziarnisty;17.15
+Chleb
+Ryz;27.80;103
+Herbata;7.71;190
+Jajka;84.66;149
+Parowki cielece;14.57;27;promocja
+Ketchup lagodny;29.45;58
+Maka;82.56;121
+Mak;73.36;29
+Musztarda sarepska;49.65;88
+Ryz basmati;44.49;16
+Parowki cielece;25.16;109
+Platki sniadaniowe wieloziarniste z orzechami i miodem;30.88;58
+Olej;86.15;56
+Maka;10.28;41
+Kawa ziarnista;81.70;88
+  Jajka ; 79.73 ; 24 
+Kasza gryczana;86.64;142
+Bob;5.92;110
+Figi;57.33;179
+Chleb razowy;36.28;12
+Oliwa z oliwek;0.85;54
+Parowki cielece;26.68
+Platki sniadaniowe wieloziarniste z orzechami i miodem;43.96;193
+Chleb razowy;36.32;200
+Szynka drobiowa;2.42;133
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;81.34;141
+Ryz basmati;17.92;54
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;8.89;100
+Czekolada gorzka;14.41
+Czekolada gorzka;18.08;79
+Makaron pelnoziarnisty;31.81;111
+Dzem;36.03;102
+Musztarda sarepska;52.31;58
+Olej;;11
+Bob;30.85;122
+  Serek wiejski light o obnizonej zawartosci tluszczu 200g ; 80.06 ; 188 
+Mleko;46.99;200
+Sol;30.04;94
+Maslo;58.49;88
+Dzem;5.86;91
+Czekolada gorzka;71.31;195
+Papryka czerwona;44.01;68
+Bulki grahamki;22.88;130
+Makaron pelnoziarnisty;31.18;128
+
+Miod
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;23.88;109
+Herbata;42.83;106
+Miod;28.16;117
+Oliwa z oliwek;38.09
+Oliwa z oliwek;9.47;84
+Woda;61.63;128
+Platki sniadaniowe wieloziarniste z orzechami i miodem;5.26;16
+Figi;46.56;118
+Sol;21.35;77
+Mak;27.64;141
+Sok pomaranczowy;21.47;142
+Dzem;10.30;24
+Kawa ziarnista;15.23;25
+Czekolada gorzka;64.34;32
+Kawa;73.42;56
+Jogurt naturalny;drogo;3
+Maslo;82.36;103
+Mleko;70.28;129
+  Woda ; 0.98 ; 33 
+Kawa;47.86;175
+Chleb;25.39;105
+Ketchup lagodny;60.50;64
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;50.81;72
+Chleb;14.67;188
+Maslo;24.58;108
+Dzem;57.55;45
+Bob;70.99;104
+Czekolada gorzka;83.58;36
+Serek wiejski;25.39;48
+Oliwa z oliwek;5.05;134
+Chleb;17.84;71
+Groch;41.40;193
+Ser zolty gouda;45.41;63
+Maslo;79.47;17
+Bulki grahamki;44.97;174
+Sok pomaranczowy;39.63;167
+Bob;40.91;177
+
+Bulki grahamki;83.10;34
+Platki sniadaniowe wieloziarniste z orzechami i miodem;16.46;30
+Makaron pelnoziarnisty;13.95
+Ser;64.21;29
+Musztarda sarepska;38.08;178
+Mleko;1.20;144
+Szynka drobiowa;20.95;159
+Chleb;44.51;172
+  Jajka ; 2.86 ; 85 
+Platki owsiane;8.72
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;15.27;107
+Herbata zielona;34.37;150
+Maka
+Parowki cielece;48.81;93
+Mleko;77.96;26
+Kasza;50.12;77
+Kasza gryczana;drogo;9
+Dzem;89.44;85
+Chleb razowy;54.33;155
+Parowki cielece;64.35;101
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;69.85;187
+Sok pomaranczowy;45.90;129
+Jogurt naturalny;46.17;32
+Herbata zielona;37.41;127
+  Sok pomaranczowy ; 48.71 ; 75 
+  Sok pomaranczowy ; 10.54 ; 110 
+Parowki cielece;24.80;138
+Jajka;20.51;kilka
+Kawa;27.15;159
+Bob;52.78;75
+Ketchup lagodny;9.02
+Herbata;42.55;89
+Kasza gryczana;9.00;37
+Herbata;38.70;124
+Platki owsiane;23.49;102
+Papryka czerwona;60.34;114
+Jajka;28.28;119
+Miod;87.15;67
+Maka;44.62;157
+Bob;49.88;108
+Bob;31.85;135
+Kawa ziarnista;58.75;185
+Herbata zielona;31.25;31;promocja
+Platki sniadaniowe wieloziarniste z orzechami i miodem;54.24;130
+Chleb razowy;14.36;180
+Ser;80.02;62
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;82.83;157
+Olej;22.64;95
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;66.25;64
+Mleko;;29
+  Pomidory krojone ; 43.81 ; 192 
+Jogurt naturalny;20.52;10
+Ketchup lagodny;61.39;148
+  Papryka czerwona ; 43.70 ; 108 
+Herbata zielona;89.00;38
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;49.48;27
+
+Jogurt naturalny;25.00;157
+Ryz;31.48;97
+Maka;83.63;163
+Mak;59.76;58
+Figi;11.65;47
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;71.16;190
+Chleb;70.68;158
+Figi;26.85;35
+Chleb razowy;52.60;164
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;72.63;145
+  Mak ; 81.22 ; 13 
+Ser;64.28;119
+Miod;44.03;136
+Kasza gryczana;23.02;8;promocja
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;5.10;165
+Platki owsiane;24.90;48
+
+Chleb razowy;61.50;17
+Jogurt naturalny;76.69;174
+Kawa ziarnista;38.84;39
+
+Jogurt naturalny;70.10;72
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;54.78;56
+Herbata;34.94;51
+Pomidory krojone;45.29;104
+Bob;62.17;185
+Papryka czerwona;4.78;82
+Maka;89.55;159
+Dzem;44.60;179
+Herbata;73.94;147
+Figi;3.47;78
+Bob;75.21;104
+Serek wiejski;84.50;83
+Olej;61.50;169
+  Cukier ; 51.12 ; 87 
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;45.55;59
+Ser;51.95;145
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;6.94;160
+Olej;4.73;180
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;75.18;133
+Sok pomaranczowy;7.27;50;promocja
+Platki sniadaniowe wieloziarniste z orzechami i miodem;21.62;138
+Bob;41.99;60
+Kawa;;21
+Sol;67.32;73
+Sol;65.48;192
+Miod;10.26;43
+Herbata;38.29;2
+Dzem;30.52;26
+Kawa ziarnista;5.39;118
+Platki owsiane;4.25;92
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;9.70;177
+Olej;47.97;164
+Chleb;75.18;86
+Maka;77.44;2
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;64.64;13
+Groch;67.95;36
+
+Ketchup lagodny;43.13;54
+Chleb;45.49;55
+Chleb razowy;85.90;17
+Cukier;38.07;69
+Ryz;42.42;195
+Sol;34.09;165
+Szynka drobiowa;52.89;64
+Miod;69.96;152
+Ser;;12
+Kasza;39.44;135
+Herbata zielona;17.04;50
+Sol;78.77;1
+Pomidory krojone;7.57;164
+Platki sniadaniowe wieloziarniste z orzechami i miodem;13.42;164
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;5.97;28
+Chleb
+Jajka;47.59;179
+Szynka drobiowa;3.59
+Miod
+Parowki cielece;66.08;77
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;16.51;158
+Kawa ziarnista;53.69;67
+Maslo;53.61;16
+Mak;76.26;148
+Musztarda sarepska;26.68
+Kawa;65.21;195
+Serek wiejski;33.28;158
+Ketchup lagodny;drogo;14
+Cukier;44.14;188
+Bulki grahamki;68.25;97
+Musztarda sarepska;13.09;74
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;8.88;96
+Bob
+Kawa ziarnista;72.13;52
+Szynka drobiowa;6.75
+Platki sniadaniowe wieloziarniste z orzechami i miodem;36.90;86
+
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;30.40;170
+Papryka czerwona;70.37;122
+Chleb razowy;73.85;68
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;43.09;34
+  Herbata ; 60.04 ; 5 
+Chleb
+Dzem;17.99;26
+Bob;50.77;175
+
+Miod
+Ser;83.39;23
+Ryz basmati;71.12;162
+Jajka;12.15;174
+Kasza gryczana;56.35;93
+Kasza;31.04;148
+Platki sniadaniowe wieloziarniste z orzechami i miodem;50.89;64
+Kasza gryczana;16.61;99
+Papryka czerwona;18.32;39
+Kawa;1.52;175
+Jogurt naturalny;86.08;36
+Platki sniadaniowe wieloziarniste z orzechami i miodem;12.52;198
+Groch;25.40;86
+Ketchup lagodny;67.51;158
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;28.34;85
+Oliwa z oliwek;26.09;128
+Kasza;3.08;185
+Dzem;60.20;164
+Ketchup lagodny;73.11;119
+Jogurt naturalny;8.68;60
+Chleb;45.33;65
+Bulki grahamki;15.96;146
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;81.50;99
+Olej
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;2.02;73
+Sok pomaranczowy;6.36;102
+Platki owsiane;68.49;160
+Cukier;52.98;1
+Ser;77.75;72
+Cukier;66.37;82
+Platki sniadaniowe wieloziarniste z orzechami i miodem;53.26;58
+Maslo;62.70;22
+Maka;57.42;61
+Dzem;56.49;193
+Groch;15.75;137
+Mleko;70.79;74
+Szynka drobiowa;60.53;177
+Herbata zielona;drogo;1
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;23.46;146
+Maka;75.91;169
+Makaron pelnoziarnisty;36.52;185
+Herbata zielona;27.28;22;promocja
+Figi;58.79;3
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;63.69;70
+Ryz basmati;88.54;86
+Ryz;25.96;kilka
+
+Bulki grahamki;7.66;54
+Olej;31.20;180
+Papryka czerwona;78.13;48
+  Sol ; 44.08 ; 192 
+Mak;40.29;14
+Ryz;33.34;132
+Dzem;86.95;70
+Chleb;81.20;164
+Bulki grahamki;85.97;140
+Kawa
+Chleb razowy;82.24;65
+Maka;80.68;163
+Kawa;30.11;56
+Serek wiejski;81.38;118
+Sol;89.22;176
+  Maslo ; 41.35 ; 141 
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;11.86;27
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;9.91;80
+Maslo;19.21;123
+  Ryz ; 48.89 ; 82 
+Jajka
+Chleb;39.62;166
+Kasza;75.09;136
+Kawa ziarnista;67.22;149
+Platki sniadaniowe wieloziarniste z orzechami i miodem;51.61;182
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;83.32;18
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;43.81;1
+Olej;66.34;85
+Jajka;87.07;60
+Kasza;82.00;171
+Platki sniadaniowe wieloziarniste z orzechami i miodem;17.05;106
+
+Chleb razowy;42.43;60
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;8.74;66
+Bulki grahamki;13.58;62
+Chleb razowy;82.50;183
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;43.84;42
+Makaron pelnoziarnisty;70.62;110
+Chleb razowy;23.78;178
+  Ryz ; 50.41 ; 76 
+Sol;5.76;27
+Jajka;11.51;39
+Ryz;21.12;45
+Kasza;48.28;106
+Sol;23.15;178
+Platki sniadaniowe wieloziarniste z orzechami i miodem;30.34;152
+Ser;27.74;2
+Musztarda sarepska;73.20;20
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;42.25;156
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;88.77;143
+Jogurt naturalny;11.63;11
+Figi;53.00;28
+Maslo;16.84;147
+  Ketchup lagodny ; 8.13 ; 168 
+  Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg ; 63.23 ; 172 
+Kawa;16.17;85
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;48.55;21
+Sol
+Chleb;;7
+Sol;17.07;155
+Mak;0.65;37
+Musztarda sarepska;15.34;11;promocja
+Szynka drobiowa;17.35;177
+Woda;;2
+Figi;52.84;113
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;29.15;5
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;60.14;192
+Maslo;9.82;180
+Ryz;22.01;139
+Kawa;65.28;63
+Figi;57.38;175
+Serek wiejski;57.08;84
+  Serek wiejski light o obnizonej zawartosci tluszczu 200g ; 2.31 ; 158 
+Chleb razowy;76.25;141
+Figi;;26
+Olej;1.85;72
+Sol;38.17;108
+Parowki cielece;69.54;137
+Makaron pelnoziarnisty;9.90;2;promocja
+Ryz;;28
+Kawa;36.20;154
+Miod;53.98;135
+Woda;9.47;109
+Papryka czerwona;53.14;68
+Maslo;45.71;80
+Dzem;;6
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;7.22;33
+Sok pomaranczowy;63.32;165
+Musztarda sarepska;12.06;16
+Oliwa z oliwek;16.58;35
+Oliwa z oliwek;11.09;26;promocja
+Sok pomaranczowy;70.34;65
+Mak;20.48;71
+Kasza;5.51;20
+Mak;89.66;59
+Serek wiejski;80.41;59
+Czekolada gorzka;36.06;63
+Jajka
+Miod;51.23;42
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;16.64;179
+Chleb;6.88;182
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;45.74;156
+  Olej ; 67.44 ; 19 
+Serek wiejski;10.43;11
+Olej;44.66;37
+Olej;80.16;129
+Chleb;12.48;14
+Papryka czerwona;70.18;106
+Dzem;62.01;60
+Sok pomaranczowy;78.75;109
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;85.19;191
+Dzem;82.78;167
+Ketchup lagodny;18.39;154
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;5.35;118
+Ryz;40.72;136
+Czekolada gorzka;27.92;70
+Maslo;31.89;154
+Parowki cielece;47.39;112
+Makaron pelnoziarnisty;17.62;151
+Chleb;19.45;kilka
+Szynka drobiowa;40.22;14
+Jogurt naturalny;44.19;31
+Kawa;7.09;60
+Woda;68.53;150
+Jajka;41.53;36
+
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;60.93;112
+Cukier;78.70;14
+Kawa;17.78;99
+Makaron pelnoziarnisty;21.62;51
+Czekolada gorzka;33.60;138
+Serek wiejski;20.92;46
+Cukier;47.61;59
+Ketchup lagodny;29.31;66
+Sok pomaranczowy;41.79;66
+Platki sniadaniowe wieloziarniste z orzechami i miodem;80.11;170
+Olej;22.63;127
+Dzem;11.79;160
+Ser;25.90;113
+Ser;84.91;88
+Oliwa z oliwek;1.76;20;promocja
+Herbata zielona;21.36;11;promocja
+Woda;45.06;124
+Jogurt naturalny;32.00;196
+Kawa ziarnista;20.80
+Maslo
+  Ser zolty gouda ; 20.67 ; 141 
+Jajka;48.68;117
+Szynka drobiowa;32.43;28;promocja
+Dzem;7.91;45
+Chleb razowy;80.70;151
+Bob;60.58;165
+Bob;73.45;19
+Jogurt naturalny;9.28;30
+Bulki grahamki;1.37;17
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;65.87;184
+Groch
+Platki owsiane;15.03;143
+Oliwa z oliwek;56.22;15
+Kasza gryczana;12.09;30;promocja
+Papryka czerwona;69.25;135
+Woda
+Sol;69.86;198
+Woda
+Bob;25.44;185
+Herbata;72.21;12
+Jajka;59.31;119
+Herbata;56.37;109
+Sok pomaranczowy;11.43;198
+Mleko;1.40;189
+Platki owsiane;12.16
+Miod;70.77;82
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;8.00;130
+
+Platki owsiane;26.65;31
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;82.57;193
+Chleb;34.92;55
+Groch;29.91;91
+Kasza;73.48;142
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;14.43;163
+Mak;57.96;134
+Maka;59.80;29
+Mak;73.05;182
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;32.51;68
+Herbata zielona;87.78;173
+Kasza;5.64;173
+  Figi ; 62.02 ; 155 
+  Herbata zielona ; 89.81 ; 53 
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;36.59;173
+Mleko;23.65;155
+Chleb;26.55;145
+Ser;44.16;105
+Mleko;83.94;66
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;77.82;120
+Kawa;65.62;32
+Bob;76.07;124
+
+Mak;39.64;55
+Kawa ziarnista;6.44;87
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;25.19;72
+Chleb;12.97;kilka
+Kasza gryczana;86.22;192
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;32.35;149
+Kawa ziarnista;81.92;23
+Bulki grahamki;67.21;194
+Jajka;;27
+Sok pomaranczowy;51.80;18
+Mleko;37.56;135
+Mak
+Figi;72.85;65
+Herbata zielona;46.62;175
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;59.97;170
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;77.12;199
+Platki owsiane;drogo;14
+Bulki grahamki;39.81;144
+Groch;8.31;82
+Serek wiejski;37.41;43;promocja
+Woda;69.76;32
+Chleb;25.19;189
+Maslo;34.53;5
+Woda;84.52;50
+Platki owsiane;66.93;62
+Chleb razowy;29.21;142
+Figi;;26
+Ryz basmati;19.74;110
+Musztarda sarepska;52.88;69
+  Herbata zielona ; 76.56 ; 184 
+Groch;20.80;124
+Dzem;36.32;57
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;13.28;169
+Szynka drobiowa;74.58;91
+Figi;43.79;24
+Woda;41.87;178
+Dzem;55.27;151
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;44.59;111
+
+Dzem;58.58;56
+Ser;72.90;67
+Ser zolty gouda;12.95;158
+Figi;25.41;kilka
+Maka;53.31;74
+Makaron pelnoziarnisty;81.93;148
+Kasza gryczana;3.79;17;promocja
+Jajka;63.66;161
+Szynka drobiowa;29.29;118
+Pomidory krojone;48.38;186
+Parowki cielece;66.49;190
+Sok pomaranczowy;57.51;198
+Cukier;30.61;117
+Szynka drobiowa;62.91;32
+Musztarda sarepska;59.43;178
+Kasza;85.65;24
+Czekolada gorzka;15.62;55
+Parowki cielece;72.99;110
+Parowki cielece;9.64;184
+Platki sniadaniowe wieloziarniste z orzechami i miodem;24.74;136
+Makaron pelnoziarnisty;31.53;7
+Platki owsiane;33.37;185
+Dzem;37.12;68
+Jajka;55.69;117
+Mleko;56.93;2
+Makaron pelnoziarnisty;16.61;122
+Kasza;31.51;82
+Platki sniadaniowe wieloziarniste z orzechami i miodem;70.04;189
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;41.53;147
+Bulki grahamki;16.34;198
+Maslo;60.24;168
+Mleko;77.65;171
+Dzem;54.92;135
+Herbata;83.42;62
+Herbata;23.78;83
+Olej;14.36;15
+
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;1.26;142
+Kasza
+Miod;35.23;130
+Ryz basmati;43.34;19
+Ser zolty gouda;50.99;172
+Ketchup lagodny;29.44;46;promocja
+Chleb razowy;76.56;181
+  Sok pomaranczowy ; 44.14 ; 92 
+Czekolada gorzka;52.16;187
+Bob;78.35;158
+Czekolada gorzka;66.26;53
+Ryz basmati;34.56;29;promocja
+Cukier;68.93;179
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;30.48;134
+Makaron pelnoziarnisty;74.90;135
+Ser zolty gouda;60.20;83
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;23.19;90
+Ketchup lagodny;50.39;80
+Herbata zielona;65.20;91
+Ser;12.09;69
+  Maslo ; 22.85 ; 149 
+Cukier;64.36;154
+Figi;85.16;165
+Sol;3.25;138
+Maslo;50.37;1
+Dzem;25.89;169
+Ryz;28.04;50
+Oliwa z oliwek;30.96;106
+Platki owsiane;16.47;153
+Mak;80.95;88
+Pomidory krojone;18.55;19;promocja
+Cukier;16.97;132
+Chleb;30.99;118
+Kawa ziarnista;53.41;156
+Mak;56.64;125
+
+Mak;34.74;121
+Figi;1.39;kilka
+Ser;19.15;106
+Oliwa z oliwek;61.27;149
+Mleko;18.06;155
+Jajka;73.36;196
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;69.87;89
+Woda;54.16;59
+Cukier;23.33;141
+Ryz;88.87;66
+Ketchup lagodny;52.36;187
+Czekolada gorzka;31.29;163
+Herbata zielona;26.15;143
+Jogurt naturalny;27.24
+Pomidory krojone;77.39;139
+Herbata zielona;83.31;182
+Jogurt naturalny;5.33;18
+Kasza gryczana;70.07;174
+
+Makaron pelnoziarnisty;5.37;40
+Sok pomaranczowy;1.81;127
+Kawa;33.42;97
+Woda;64.24;46
+Kasza;48.91;72
+Czekolada gorzka;74.37;92
+Chleb;39.42;10
+Maslo
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;72.11;181
+Parowki cielece;48.94;103
+Woda;8.43;91
+Oliwa z oliwek;78.25;50
+Mleko;38.09;30
+Serek wiejski;27.57;115
+Ryz basmati;2.06;124
+Mak;31.61;179
+Ser zolty gouda;74.90;168
+Sol;8.51;21
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;87.36;108
+Jajka
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;30.56;97
+Herbata zielona;1.39;68
+Platki sniadaniowe wieloziarniste z orzechami i miodem;17.81;68
+Szynka drobiowa;42.65;11
+Herbata;22.39;68
+Chleb;22.19;79
+Oliwa z oliwek;33.16
+  Makaron pelnoziarnisty penne z maki durum opakowanie 500g ; 69.19 ; 39 
+  Dzem ; 82.55 ; 85 
+Parowki cielece;65.34;84
+Woda;59.24;126
+Bob;42.28;129
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;26.48;123
+Figi;51.06;144
+Bulki grahamki;44.92;197
+Oliwa z oliwek;4.32;132
+Jogurt naturalny;54.58;79
+Papryka czerwona;84.49;15
+Cukier;41.27;149
+Kasza gryczana;60.87;24
+Serek wiejski;25.81;118
+Dzem
+Figi;42.40;31
+  Oliwa z oliwek ; 32.23 ; 14 
+Jajka;40.80;35
+Ser;29.85;8
+Ryz;80.51;17
+Bob;;27
+
+Kawa;8.06;29
+Pomidory krojone;29.43;187
+Dzem;78.81;189
+Dzem;18.23;155
+Maka;41.12;172
+Cukier;;12
+Maslo;58.91;82
+  Sol ; 48.16 ; 132 
+Figi;16.52;30
+Papryka czerwona;1.39
+Herbata;59.48;47
+
+Ketchup lagodny;43.70;142
+Miod
+Maslo;64.61;18
+  Sok pomaranczowy ; 20.22 ; 15 
+  Platki sniadaniowe wieloziarniste z orzechami i miodem ; 39.54 ; 113 
+Ser;0.54;107
+Jogurt naturalny;13.90;174
+Papryka czerwona;19.23;33
+Czekolada gorzka;24.39;55
+Figi;8.39;60
+Groch;82.99;24
+Dzem;;6
+Maka;28.01;146
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;29.96;4
+Ryz;83.00;154
+  Chleb razowy ; 69.68 ; 180 
+Sol;3.91;kilka
+Kawa;37.17;133
+Czekolada gorzka;1.76;47
+Kawa;57.14;56
+Figi;70.04;48
+Herbata;41.77;89
+Bulki grahamki;17.05;93
+Czekolada gorzka;29.08;7
+Chleb;4.90;165
+Mak;4.03;18
+Ser zolty gouda;8.25;21
+Oliwa z oliwek;41.86;78
+Ketchup lagodny;8.62;191
+Woda;52.04;50
+Herbata zielona;25.57;128
+  Herbata ; 41.21 ; 93 
+Bob;69.47;2
+Maka;89.38;149
+Maka;32.23;193
+Groch;78.76;191
+Olej;39.02;34
+Maka;75.89;133
+Jogurt naturalny;54.16;121
+Serek wiejski;66.89;59
+Figi
+Mak;83.65;90
+Sok pomaranczowy;6.48;170
+Dzem;26.55;199
+Ser zolty gouda;80.79;22
+Maslo
+Chleb;67.40;40
+Mleko;23.07;149
+Woda
+Czekolada gorzka;48.93;54
+Sok pomaranczowy;60.88;2
+Ryz basmati;30.27
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;52.19;99
+Ryz basmati;87.02;141
+Ryz
+Herbata zielona;75.71;146
+Olej
+Kasza;21.18;17
+Woda;76.26;1
+Maka;61.64;182
+Musztarda sarepska;77.80;114
+Czekolada gorzka;61.26;36
+Dzem;50.10;190
+Platki owsiane;5.97;183
+  Bob ; 9.52 ; 132 
+Ser zolty gouda;20.56;39
+Ser zolty gouda;18.02;29;promocja
+Ryz;55.20;179
+  Jajka ; 64.33 ; 41 
+Groch;68.62;196
+Sok pomaranczowy;74.41;183
+Bulki grahamki;34.09
+Czekolada gorzka;83.53;60
+Olej;26.66;102
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;31.63;174
+Olej;35.49;4
+  Musztarda sarepska ; 17.41 ; 22 
+Parowki cielece;19.02;15
+Mleko;54.01;71
+Groch;2.11;54
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;38.73;64
+Mleko;33.26;45
+Chleb;11.93;21
+Papryka czerwona;11.14;141
+Kawa;16.66;192
+Sok pomaranczowy;15.98
+Musztarda sarepska;37.51;192
+Ketchup lagodny;32.60;142
+Makaron pelnoziarnisty;59.83;75
+Ryz basmati;53.83;35
+Ketchup lagodny;87.70;190
+Chleb razowy;25.94;146
+Kasza;79.63;26
+Mak;4.75;56
+Ser;25.69;154
+Mak;20.64;46
+
+Herbata;;3
+Szynka drobiowa;38.94;35
+Maka;50.16;199
+Herbata zielona;10.42;161
+Herbata zielona;13.53
+Maka;76.32;108
+Jajka;25.88;94
+Mleko;;7
+Kawa ziarnista;57.00;39
+
+  Woda ; 32.24 ; 89 
+Dzem;58.31;88
+  Serek wiejski light o obnizonej zawartosci tluszczu 200g ; 29.56 ; 157 
+Makaron pelnoziarnisty;78.69;2
+Maslo;23.68;184
+Oliwa z oliwek;12.58;194
+Groch;30.11;193
+Woda;7.31;2
+Musztarda sarepska;4.48;23
+Sol;1.87;97
+Pomidory krojone;33.52;167
+Oliwa z oliwek;3.57
+Olej;56.70;181
+Parowki cielece;73.44;59
+Szynka drobiowa;68.59;134
+Papryka czerwona;83.97;12
+Oliwa z oliwek;58.83;193
+Miod;53.67;120
+Woda;67.43;80
+Platki sniadaniowe wieloziarniste z orzechami i miodem;18.57;82
+Kawa;57.31;62
+Dzem
+Chleb razowy;86.06;170
+Jogurt naturalny;16.63;152
+Miod;54.11;49
+Kawa;86.95;32
+Sok pomaranczowy;47.95;102
+Chleb razowy;74.13;57
+Bob;9.83;173
+Kasza;85.86;188
+Papryka czerwona;7.36
+Musztarda sarepska;32.73;157
+Mak;3.91;34
+Platki owsiane;46.26;127
+Bulki grahamki;29.65;3;promocja
+Cukier;36.88;182
+Jajka;;28
+Kawa;14.56;kilka
+Bob;;7
+Herbata zielona;42.45;68
+Bob;2.14;63
+Jogurt naturalny;18.88;49
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;87.65;193
+Chleb razowy;drogo;19
+Chleb razowy;53.30;35
+Makaron pelnoziarnisty;56.96;80
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;8.16;11
+Bob;44.48;41
+Ser;83.99;158
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;18.70;97
+Platki owsiane;31.99;149
+Sol
+Czekolada gorzka;65.32;180
+Mleko;;8
+Ryz basmati;32.56;26
+Sok pomaranczowy;59.02;144
+Miod;72.45;23
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;39.57;38
+Maka;63.24;78
+Pomidory krojone;86.69;25
+Herbata zielona;49.62;57
+Herbata zielona;38.11;11
+Maslo;44.97;66
+Mleko;;10
+Herbata zielona;17.35
+Sok pomaranczowy;89.85;200
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;40.97;49
+Olej;72.26;197
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;44.04;66
+Woda;6.99;126
+  Bulki grahamki ; 51.89 ; 197 
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;17.67;68
+Kawa;65.79;125
+Mleko;29.74;93
+Jajka;51.77;22
+Kasza gryczana;59.78;199
+Bob
+Herbata zielona;43.44;199
+Ryz;58.71;162
+Kawa;8.65;94
+Makaron pelnoziarnisty;62.26;194
+Oliwa z oliwek;68.92;28
+Bob
+Jogurt naturalny;23.32;1
+Chleb razowy;1.31;169
+Mleko;53.80;51
+Maslo;11.56;185
+Ketchup lagodny;49.90;169
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;24.28;143
+Ser;37.83;67
+Szynka drobiowa;33.40;60
+Maka;71.05;4
+Ser;80.46;34
+
+Miod;79.29;90
+Sol;13.47;18
+Groch;23.38;kilka
+Bulki grahamki;25.10;113
+Makaron pelnoziarnisty;59.38;65
+Sol;65.63;98
+Chleb razowy;30.40
+Chleb;0.92;163
+Bulki grahamki;32.61;101
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;9.64;47
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;37.69;103
+Figi;66.64;150
+Kawa;38.51;60
+  Parowki cielece ; 43.90 ; 162 
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;12.05;158
+Sol;89.05;123
+Woda;65.85;35
+Olej;2.25;3
+Serek wiejski;38.41;61
+Bob;70.69;17
+Sol;82.50;138
+Chleb razowy;28.21;42
+Miod
+  Platki owsiane ; 41.10 ; 99 
+Herbata zielona;18.59
+Kawa ziarnista;14.79;169
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;88.61;57
+Musztarda sarepska;85.26;174
+Herbata;11.46;29
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;8.83;199
+  Ketchup lagodny ; 75.08 ; 29 
+Bob;71.37;191
+Jajka;49.18;105
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;47.43;45
+Chleb;63.13;183
+Kasza gryczana;3.69;83
+  Mleko ; 70.28 ; 182 
+  Kasza gryczana ; 62.46 ; 104 
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;30.96;4
+Pomidory krojone;21.88;194
+Miod;16.39;182
+  Herbata zielona ; 8.49 ; 185 
+Ser zolty gouda;1.28;40;promocja
+Musztarda sarepska;1.51;177
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;74.40;156
+Oliwa z oliwek;89.00;174
+Cukier;74.83;12
+Parowki cielece;69.76;121
+Ser zolty gouda;16.21;185
+Papryka czerwona;76.80;118
+Olej;4.21;134
+Ser;24.13;146
+Figi;40.89;171
+Chleb;82.82;81
+Woda
+Pomidory krojone;55.81;18
+Miod
+Oliwa z oliwek;27.34;185
+Mleko;23.38;116
+Parowki cielece;59.85;52
+Szynka drobiowa;27.35;96
+Papryka czerwona;30.09;37
+Mleko;85.66;154
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;44.23;87
+Jajka;51.96;98
+Oliwa z oliwek;79.78;143
+Szynka drobiowa;6.96;37;promocja
+Maslo;;22
+Mleko;9.08;72
+Ryz basmati;61.61;115
+
+Herbata;49.41;61
+Ser zolty gouda;72.33;154
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;36.26;167
+Papryka czerwona;87.91;38
+Platki sniadaniowe wieloziarniste z orzechami i miodem;36.33;75
+Serek wiejski;30.06;149
+Platki owsiane;38.75;176
+Chleb;12.83;kilka
+Serek wiejski;6.74
+Bob;60.80;149
+Makaron pelnoziarnisty;76.82;176
+Figi;58.53;189
+Chleb razowy;68.44;26
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;69.00;132
+Dzem;62.18;96
+Makaron pelnoziarnisty;37.13;44
+
+Kasza;69.35;146
+Bulki grahamki;22.62
+Kawa ziarnista;13.19;26
+Pomidory krojone;16.93;168
+Serek wiejski;40.85;33
+Czekolada gorzka;77.22;198
+Groch;50.47;139
+Olej;16.87;148
+Figi;53.18;117
+Ryz basmati;60.68;187
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;74.23;171
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;74.53;167
+Olej;41.81;141
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;55.32;46
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;38.40;163
+Platki owsiane;62.08;20
+Bulki grahamki;33.45
+Pomidory krojone;74.56;188
+Maslo;89.80;96
+Serek wiejski;33.41;43
+Bob;15.06;93
+Czekolada gorzka;63.26;16
+Groch
+Czekolada gorzka;74.43;184
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;11.05;164
+Olej;59.28;127
+Sok pomaranczowy;21.14;101
+Ryz basmati;1.90;97
+Chleb razowy;74.40;114
+Herbata;46.27;183
+Dzem;75.35;126
+Parowki cielece;28.06
+Jajka;56.93;187
+Mleko;;28
+Kasza gryczana;71.91;46
+Kawa;15.46;156
+  Chleb razowy ; 3.74 ; 172 
+  Bob ; 31.82 ; 78 
+Ser zolty gouda;61.62;194
+Parowki cielece;35.20;23;promocja
+Mak;27.12;kilka
+Dzem;30.26;181
+Mak;64.56;132
+Musztarda sarepska;17.75;137
+Figi;40.57;27
+Maka;6.30;33
+Sol;27.07;54
+Oliwa z oliwek;52.35;59
+Kasza;8.28;57
+Jajka;8.84;85
+Figi;83.80;180
+  Oliwa z oliwek extra vergine tloczona na zimno 500ml ; 86.06 ; 126 
+Ser
+Szynka drobiowa;37.78;131
+Maka
+Musztarda sarepska;21.44;164
+Chleb;27.88;167
+Szynka drobiowa;42.58;81
+Herbata zielona;37.29;150
+Kawa ziarnista;86.94;98
+  Mleko ; 56.92 ; 102 
+Miod;15.88;37
+Ketchup lagodny;24.37;146
+  Szynka drobiowa ; 79.90 ; 198 
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;61.14;111
+Mleko;77.77;95
+Maslo;54.21;126
+Herbata;71.31;146
+Maka;;27
+Oliwa z oliwek;30.59
+Chleb;;18
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;16.47;16
+Chleb;39.68;54
+Jajka;44.35;22
+Serek wiejski;62.59;56
+Cukier;56.63;158
+Kasza;;10
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;57.81;110
+Mleko;3.84;71
+Ser zolty gouda;88.37;146
+
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;20.51;58
+Jogurt naturalny;61.54;188
+Dzem;;24
+Chleb razowy;2.72
+Papryka czerwona;26.59;21
+Chleb;38.46;150
+Jajka;51.66;199
+
+Ryz basmati;46.52;88
+Sol;45.65;57
+Sol;7.42;175
+Makaron pelnoziarnisty;35.85;13
+Woda;12.68;27
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;38.22;67
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;49.32;13
+Herbata zielona;72.73;149
+
+Musztarda sarepska;54.61;36
+Herbata;;3
+Papryka czerwona;32.02;40
+Jajka;85.75;168
+Pomidory krojone;7.53;58
+Maslo;86.55;76
+Herbata;24.48;155
+Miod;15.57;kilka
+Mleko;1.51;144
+Makaron pelnoziarnisty;73.29;70
+Chleb razowy;57.85;93
+Makaron pelnoziarnisty;52.20;10
+
+Figi;24.85;144
+Woda;8.95;77
+Kasza gryczana;87.42;152
+Szynka drobiowa;5.82;46;promocja
+Cukier;40.26;172
+Musztarda sarepska;26.70;41
+Mak;35.69;22
+Platki sniadaniowe wieloziarniste z orzechami i miodem;3.07;135
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;24.31;200
+Makaron pelnoziarnisty;27.19;190
+Ryz;6.25;49
+Chleb;86.41;62
+Herbata;0.81;82
+
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;58.75;11
+Papryka czerwona;10.49;185
+Czekolada gorzka;79.90;42
+Miod;13.45;118
+Sol;49.94;160
+Bulki grahamki;6.79;127
+Cukier;3.70;73
+Figi;56.49;146
+Maslo;37.57;149
+  Woda ; 59.65 ; 54 
+  Kawa ; 38.10 ; 41 
+Ser
+Serek wiejski;30.50;12;promocja
+Parowki cielece;88.17;1
+Maslo;43.46;13
+Groch;57.02;79
+Maslo;20.00;kilka
+Herbata;72.73;197
+Chleb;82.00;84
+Chleb razowy;83.41;142
+Platki owsiane;76.26;29
+Szynka drobiowa;61.21;194
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;26.64;38
+Ryz basmati;60.25;27
+Jajka
+Maka;4.79;102
+Platki owsiane;46.29;191
+Sol;16.50;90
+Serek wiejski;9.52;10
+Parowki cielece;4.28;129
+
+Groch;38.97;2
+Mak;37.04;199
+Szynka drobiowa;24.33;39
+Jogurt naturalny;79.46;107
+Ryz basmati;12.84;141
+Chleb razowy;74.79;147
+Szynka drobiowa;50.88;152
+Ryz basmati;28.73;28
+Papryka czerwona;12.45
+Ketchup lagodny;80.13;112
+Kasza gryczana;87.44;163
+Kasza gryczana;7.24;134
+Kasza;8.15;59
+Dzem;23.65;52
+Mak;88.24;39
+Olej;20.69;118
+Bulki grahamki;15.55;45
+Mleko;19.52;17
+Ser zolty gouda;5.97;166
+Parowki cielece;25.68;46
+Parowki cielece;75.97;57
+Jajka;60.16;160
+Kawa ziarnista;35.57;65
+Ryz;;17
+Chleb;0.50;172
+Ketchup lagodny;45.93;98
+Maka;69.78;93
+Szynka drobiowa;50.29;147
+Ketchup lagodny;drogo;20
+  Parowki cielece ; 3.72 ; 134 
+Mleko;87.61;14
+Sok pomaranczowy;12.97;109
+Bulki grahamki;27.31;4
+Miod
+Bulki grahamki;17.47;19;promocja
+Kasza;59.03;16
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;45.88;7
+Mleko;30.72;158
+Ser zolty gouda;12.17;119
+Sok pomaranczowy;7.40;77
+
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;86.25;170
+Papryka czerwona;79.31;164
+Chleb razowy;39.14
+Kawa;79.59;128
+Serek wiejski;76.49;66
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;77.34;117
+Jajka;48.40;199
+Platki owsiane;32.99;168
+Herbata;81.50;18
+Papryka czerwona;76.57;182
+Chleb razowy;80.80;160
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;66.25;89
+Olej;85.85;97
+Maslo;87.36;128
+Platki owsiane;26.77;47;promocja
+Ryz;21.13;50
+Herbata;85.24;41
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;15.34;64
+Groch;30.46;140
+
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;25.81;53
+Kawa ziarnista;62.65;48
+Mleko;67.01;171
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;5.93;156
+Herbata;2.30;104
+Kasza;21.78;4
+Chleb razowy;41.47;91
+Cukier;61.34;58
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;72.66;187
+Chleb razowy;50.42;112
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;46.95;59
+Cukier
+Cukier;18.89;9
+Maka
+Platki owsiane;29.87;18
+Maslo;52.88;147
+Mak;29.17;175
+Maka;62.99;68
+Maka;40.14;121
+Herbata;22.16;183
+Platki sniadaniowe wieloziarniste z orzechami i miodem;88.33;113
+Herbata zielona;41.34;23
+Mak;86.72;189
+Herbata zielona;55.99;197
+Cukier;62.95;141
+  Bulki grahamki ; 8.67 ; 1 
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;58.75;81
+Bob;63.42;7
+Cukier;55.49;60
+Parowki cielece;87.08;133
+Maka;45.48;23
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;24.05;154
+Mleko;;21
+  Figi ; 25.74 ; 77 
+Olej;72.48;197
+Serek wiejski;26.14;71
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;48.49;12
+Groch;56.91;23
+Maka;8.75;165
+Kawa;34.58;8
+Kasza;85.16;165
+Woda;84.46;138
+Kasza;74.08;7
+Kawa ziarnista;27.02;94
+Platki owsiane;37.43
+
+Oliwa z oliwek;3.36;158
+Woda;76.62;127
+Chleb;14.34;98
+Maka;61.09;99
+Mleko;41.57;104
+Serek wiejski;6.61;119
+Mleko;70.88;113
+Sok pomaranczowy;41.96;24
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;85.75;152
+Sok pomaranczowy;44.29;64
+Chleb;27.73;179
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;46.62;40
+Kasza;74.88;2
+
+Musztarda sarepska;4.15
+Chleb razowy;18.24
+Woda;58.48;191
+  Ser ; 2.03 ; 132 
+Maka;19.71;146
+  Mak ; 19.88 ; 67 
+Miod;46.83;129
+Ser;64.71;95
+Oliwa z oliwek;88.28;12
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;4.66;170
+Czekolada gorzka;9.10;78
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;54.72;151
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;27.10;131
+Kawa;25.17;175
+Czekolada gorzka;60.05;147
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;70.99;92
+Ketchup lagodny;88.30;69
+Maka;7.64;178
+Jogurt naturalny;76.34;10
+Herbata;55.17;97
+Sol;77.24;31
+Maslo;41.04;10
+Maslo;70.32;155
+Groch
+Makaron pelnoziarnisty;25.83;92
+Chleb;36.77;160
+
+Chleb razowy;38.80;117
+Herbata zielona;54.69;135
+Ser zolty gouda;7.01;25;promocja
+Makaron pelnoziarnisty;17.85;85
+Kasza;1.44;47
+Pomidory krojone;57.32;88
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;10.63;165
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;53.91;110
+Chleb razowy;23.21;152
+Szynka drobiowa;drogo;5
+Groch;10.15;kilka
+Kasza gryczana;21.91;182
+Cukier;84.47;137
+Chleb;75.65;158
+Cukier;5.10;19
+Szynka drobiowa;36.18;96
+Mak;67.63;94
+Dzem;12.82;82
+Figi;79.84;168
+Olej;1.29;157
+Woda;60.55;57
+Sol;86.69;25
+Ryz;29.73;113
+Oliwa z oliwek;74.19;170
+Oliwa z oliwek;3.80;68
+Ser;71.91;156
+Dzem;13.58;116
+Herbata;87.39;124
+Pomidory krojone;45.14;183
+Serek wiejski;23.14
+Jogurt naturalny;82.00;102
+Platki owsiane;81.06;79
+Cukier;56.56;88
+  Oliwa z oliwek ; 50.84 ; 143 
+Jogurt naturalny;76.20;70
+  Chleb razowy ; 49.67 ; 75 
+Musztarda sarepska;49.94;126
+Sol;44.53;18
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;87.23;57
+Ketchup lagodny;32.29;68
+Kasza gryczana;22.82;98
+Sol;59.24;65
+Ketchup lagodny;35.05;17
+Serek wiejski;20.80
+Maslo;46.24;179
+Dzem;86.24;9
+Miod;16.14;79
+Ser zolty gouda;20.23
+Pomidory krojone;4.22;59
+Pomidory krojone;63.10;158
+Cukier;39.98;22
+Kawa ziarnista;38.42;153
+Chleb;58.05;134
+Miod;21.24;120
+Maka;36.75;120
+Woda;4.50;61
+
+Jajka;15.22;141
+Herbata;27.62;9
+Ser zolty gouda;10.27;30
+Maslo;31.12;7
+Miod;62.30;7
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;79.13;35
+Makaron pelnoziarnisty;75.12;126
+Platki sniadaniowe wieloziarniste z orzechami i miodem;76.84;144
+Platki sniadaniowe wieloziarniste z orzechami i miodem;82.79;27
+Ser zolty gouda;25.33;16
+Serek wiejski;59.69;36
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;21.91;107
+Ketchup lagodny;4.14;6;promocja
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;49.82;43
+Kawa;6.35;kilka
+Chleb razowy;86.48;175
+Cukier;61.83;4
+Czekolada gorzka;72.65;154
+Herbata zielona;39.99;176
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;77.31;184
+  Musztarda sarepska ; 71.68 ; 29 
+Olej;60.26;175
+Mak
+Kawa;28.25;136
+Woda;1.72;kilka
+Figi;67.41;46
+Herbata;27.77;28
+Oliwa z oliwek;7.85;134
+Ryz;79.51;140
+Ryz basmati;50.01;51
+Czekolada gorzka;drogo;9
+Platki sniadaniowe wieloziarniste z orzechami i miodem;53.04;104
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;65.12;17
+Ser zolty gouda;88.53;73
+Musztarda sarepska;44.35;77
+Serek wiejski;49.82;154
+Chleb;49.40;68
+Miod;3.02;144
+Bulki grahamki;39.31;123
+Ryz basmati;49.29;39
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;89.69;89
+
+Ryz basmati;56.22;197
+Maka;31.83;190
+Figi;34.75;62
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;49.93;182
+Platki sniadaniowe wieloziarniste z orzechami i miodem;17.45;110
+Papryka czerwona;18.57;24;promocja
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;41.52;72
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;9.70;120
+Czekolada gorzka;29.69;184
+Parowki cielece;27.51;5
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;15.52;72
+Chleb razowy;20.32;114
+Chleb
+Czekolada gorzka;83.93;140
+Parowki cielece;7.06;153
+Kawa
+Musztarda sarepska;1.52;96
+Ryz basmati;18.12;139
+Ser;7.22;161
+Maka
+Ryz;75.69;92
+Chleb;87.23;190
+Dzem;58.90;20
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;72.46;3
+Serek wiejski;6.36;98
+Szynka drobiowa;57.05;99
+Chleb razowy;67.42;54
+Figi;50.92;89
+Platki owsiane;59.59;165
+Sok pomaranczowy;5.69;114
+Ketchup lagodny;80.69;184
+Czekolada gorzka;30.53
+Miod;89.48;128
+Cukier;23.77;9
+Herbata;29.73;197
+Szynka drobiowa;18.47;104
+Dzem;77.89;189
+  Chleb razowy ; 72.92 ; 41 
+Maka;78.31;192
+Jajka;27.26;127
+Jajka;38.77;98
+Herbata;59.48;98
+Bob;14.93;141
+Dzem;40.90;138
+Ryz basmati;1.37;95
+Kasza gryczana;70.56;93
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;51.94;185
+Olej;;21
+Maslo
+Olej;60.42;10
+
+Serek wiejski;38.44;193
+Jogurt naturalny;15.38;43
+Ser zolty gouda;26.69;77
+Kasza;63.76;142
+Bob;6.29;109
+Herbata;56.00;63
+Czekolada gorzka;1.13
+Maka;22.92;135
+Platki sniadaniowe wieloziarniste z orzechami i miodem;29.08;42
+Ryz basmati;11.40
+Kawa;29.87;132
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;22.94;80
+Kasza gryczana;37.82;84
+Bob;76.70;76
+Woda;5.43;kilka
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;7.02;175
+Kasza;58.49;167
+Papryka czerwona;60.08;190
+Papryka czerwona;68.02;104
+Oliwa z oliwek;37.51;20
+Makaron pelnoziarnisty;17.67;85
+Serek wiejski;84.44;73
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;69.34;76
+Ryz;11.41;133
+Platki sniadaniowe wieloziarniste z orzechami i miodem;5.61;22
+Pomidory krojone;50.51;116
+Olej;47.30;19
+
+Herbata;30.45;32
+Serek wiejski light o obnizonej zawartosci tluszczu 200g;57.22;43
+  Jogurt grecki wysokobialkowy bez cukru kubek 400g ; 25.56 ; 105 
+Cukier;3.38;55
+Czekolada gorzka;19.22;139
+Jajka;17.74;16
+
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;69.72;148
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;23.84;175
+Bulki grahamki;34.75;168
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;57.63;135
+Miod;84.91;157
+Jajka;22.74;kilka
+Parowki cielece;9.33;131
+Sol;34.07;36
+
+Parowki cielece;28.27;97
+Platki sniadaniowe wieloziarniste z orzechami i miodem;85.12;167
+Herbata zielona;87.57;12
+Bulki grahamki;65.72;140
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;73.21;115
+Szynka drobiowa;37.63
+Kawa;17.47;166
+Makaron pelnoziarnisty;49.67;84
+Kasza gryczana;49.95;154
+Figi;73.69;198
+Bulki grahamki;14.19
+Figi;41.56;192
+Czekolada gorzka;2.34
+Parowki cielece;55.85;184
+
+Herbata;28.53;137
+Bob;72.07;60
+Cukier;34.10;126
+Pomidory krojone;12.64;116
+Jajka;83.14;196
+Mleko;49.25;16
+Pomidory krojone;20.62;65
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;17.86;95
+Kasza gryczana;51.22;46
+Chleb razowy;34.24;187
+  Bob ; 28.03 ; 169 
+Olej;23.12;145
+  Ryz basmati ; 49.56 ; 190 
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;26.16;22
+Musztarda sarepska;25.84;135
+Ketchup lagodny;27.14;35
+Cukier;21.88;147
+Mak;63.13;128
+Jajka;72.21;169
+Ser zolty gouda;73.91;57
+Bob;58.49;165
+Maka;84.08;190
+Chleb
+Herbata zielona;46.84;2
+Papryka czerwona;12.16
+Figi;74.94;145
+Ketchup lagodny;11.56;168
+Sok pomaranczowy;4.81;199
+Woda;20.70;141
+Bob;36.74;176
+Sol;87.20;7
+Woda;71.81;195
+
+Mak;75.58;33
+Chleb;9.32;192
+  Woda ; 15.09 ; 40 
+Dzem;89.36;189
+Herbata;83.42;140
+Maka;77.49;105
+Bulki grahamki;65.97;97
+Jajka;56.45;16
+Platki sniadaniowe wieloziarniste z orzechami i miodem;43.73;26
+Makaron pelnoziarnisty;39.01;39
+Kawa ziarnista arabica 100 procent palona tradycyjnie 1kg;65.80;148
+Olej;4.00;181
+Woda;20.96;148
+Makaron pelnoziarnisty penne z maki durum opakowanie 500g;24.55;2
+Musztarda sarepska;82.93;46
+Czekolada gorzka;14.84;10;promocja
+Oliwa z oliwek;8.05;46;promocja
+Maslo;53.24;190
+Maslo;42.15;178
+Platki sniadaniowe wieloziarniste z orzechami i miodem;34.19;134
+Cukier;0.54;50
+Parowki cielece;61.84;146
+Kawa;10.82;11
+Czekolada gorzka;7.95
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;2.32;86
+Chleb;60.77;14
+Pomidory krojone;4.10;77
+Figi;38.84;5
+Olej;25.51;36
+  Sok pomaranczowy ; 75.35 ; 157 
+  Sok pomaranczowy ; 24.93 ; 136 
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;47.98;43
+Papryka czerwona;9.91;55
+Herbata;73.11;46
+Olej;74.23;158
+  Kasza gryczana ; 11.16 ; 180 
+Sol;2.27;167
+Parowki cielece;18.48;171
+Sol;38.69;38
+Ryz basmati;2.03;40
+Bulki grahamki;35.62;39
+Chleb;40.43;116
+Serek wiejski;30.69
+Kawa
+Jajka;29.86;158
+Herbata zielona;9.88;38
+
+Sok pomaranczowy;71.72;185
+Sok pomaranczowy;8.28
+Maslo;54.32;149
+Bulki grahamki;19.74;200
+Maka
+Kawa ziarnista;71.85;191
+Sol;51.93;88
+Platki owsiane;18.76;186
+Woda;38.35;126
+Cukier;77.61;22
+  Platki owsiane ; 22.97 ; 180 
+
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;33.68;179
+Platki owsiane;20.96;4
+Czekolada gorzka 70 procent kakao z migdalami tabliczka;89.06;175
+Platki owsiane;14.49;110
+
+Maka;65.44;77
+Czekolada gorzka;29.10;34
+Woda;39.19;200
+Kawa;11.15;67
+Makaron pelnoziarnisty;27.36;122
+Ryz;19.07;98
+Ketchup lagodny;76.58;88
+Szynka drobiowa;77.78;93
+Maka;56.57;65
+Papryka czerwona;63.33;127
+  Bulki grahamki ; 24.03 ; 84 
+Herbata zielona;53.11;35
+Dzem;46.79;180
+Oliwa z oliwek;39.65;34
+Figi;72.56;71
+Maslo;29.88;107
+
+Olej;27.14;8
+Oliwa z oliwek;56.10;101
+Dzem;;13
+Herbata zielona;5.92;47
+Maslo;51.15;171
+Herbata zielona;41.30;94
+Ryz basmati;32.67;148
+Sok pomaranczowy;63.37;132
+Platki owsiane;73.06;7
+Chleb razowy;36.17;37
+Bulki grahamki;88.24;38
+Bulki grahamki;28.24;24;promocja
+Platki owsiane;36.39;189
+Szynka drobiowa;68.09;101
+Groch;56.99;96
+Miod;20.91;73
+Jogurt naturalny;5.42;120
+Woda;65.70;96
+Maka;59.59;53
+Woda;;14
+Sol;;28
+Mak;65.18;156
+Kawa;20.00;21
+Papryka czerwona;69.69;121
+Chleb razowy;56.09;121
+Bob;69.77;60
+Platki sniadaniowe wieloziarniste z orzechami i miodem;42.84;105
+Maka;79.00;8
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;23.71;149
+Maslo;4.11;53
+Jogurt naturalny;48.98;62
+Ser;82.59;69
+Sol;30.86;55
+Herbata zielona;46.07;36
+Kasza gryczana;drogo;8
+Miod;60.23;105
+Ser zolty gouda;66.21;164
+Jajka;61.63;1
+Sok pomaranczowy;24.30;104
+Jogurt naturalny;8.79
+  Herbata ; 29.92 ; 170 
+Cukier;30.23;170
+Organiczna maka orkiszowa pelnoziarnista paczka 1kg;32.20;172
+Sok pomaranczowy;39.86
+Maslo
+Cukier;;24
+Kasza;49.39;49
+Mak;16.82;kilka
+Musztarda sarepska;81.59;54
+Oliwa z oliwek;62.28;178
+Miod;39.95;99
+Groch;54.85;174
+Oliwa z oliwek;38.11;67
+Sok pomaranczowy;63.14;111
+Chleb razowy;25.07;36
+Kasza gryczana;35.86;149
+Ser zolty gouda;39.04;26
+Ketchup lagodny;62.32;147
+Jogurt naturalny;69.59;34
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;37.70;154
+Makaron pelnoziarnisty;65.49;34
+Sok pomaranczowy;62.44;29
+Makaron pelnoziarnisty;51.93;199
+Serek wiejski;36.67;156
+Chleb razowy;16.98;66
+Chleb;84.96;88
+Platki sniadaniowe wieloziarniste z orzechami i miodem;25.60;9
+Serek wiejski;86.27;184
+Parowki cielece;8.29;147
+Oliwa z oliwek extra vergine tloczona na zimno 500ml;43.42;111
+Ser;32.17;101
+Figi;9.04;80
+Papryka czerwona;69.37;153
+Groch;76.49;128
+  Papryka czerwona ; 31.39 ; 61 
+Ryz;2.80;kilka
+Sok pomaranczowy;6.25;155
+  Pomidory krojone ; 44.86 ; 171 
+Oliwa z oliwek;13.72;193
+Platki owsiane;32.65
+Sok pomaranczowy;drogo;19
+Kasza gryczana;88.99;159
+Chleb;20.38;7
+Sok pomaranczowy;70.28;171
+
+Musztarda sarepska;51.20;37
+Jogurt grecki wysokobialkowy bez cukru kubek 400g;24.65;90
+Jogurt naturalny;31.17;59
+Kasza gryczana;34.51;142
+Bob;17.45;59
+  Groch ; 3.49 ; 138 
+Dzem;43.91;82
